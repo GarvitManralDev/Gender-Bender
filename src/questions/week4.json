@@ -70,20 +70,20 @@
       "correctOption": "Eve Sedgwick"
     },
     "8": {
-      "question": "Which essay inspired Eve Sedgwick to write Epistemology of the Closet (1990)?",
+      "question": "Which among the following essays inspired Eve Sedgwick to write her seminal work Epistemology of the Closet (1990)?",
       "options": {
-        "A": "The Solace of Open Spaces",
-        "B": "Secret Subjects, Open Subjects",
-        "C": "My Misspent Youth",
-        "D": "The Ugly Tourist"
+        "A": "Gretel Ehrlich's essay, \"The Solace of Open Spaces\" (1985)",
+        "B": "D. A. Miller's essay, \"Secret Subjects, Open Subjects\" (1988)",
+        "C": "Meghan Daum's essay, \"My Misspent Youth\" (1999)",
+        "D": "Jamaica Kincaid's essay, \"The Ugly Tourist\" (1988)"
       },
       "correctOption": "D. A. Miller's essay, \"Secret Subjects, Open Subjects\" (1988)"
     },
     "9": {
-      "question": "Which famous essay by Gayle Rubin argues sexuality is not a trivial diversion from major social issues?",
+      "question": "Which famous essay by Gayle Rubin begins with the argument that sexuality is not a frivolous diversion from the more critical problems of poverty, war, disease, racism, or nuclear annihilation?",
       "options": {
-        "A": "The Traffic in Women",
-        "B": "Thinking Sex",
+        "A": "The Traffic in Women: Notes on the 'Political Economy' of Sex",
+        "B": "Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality",
         "C": "Slouching Towards Bethlehem",
         "D": "The Ugly Tourist"
       },
