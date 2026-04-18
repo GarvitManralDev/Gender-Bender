@@ -77,6 +77,14 @@ const buttonBase = {
   transition: 'background 0.15s ease, border-color 0.15s ease',
 }
 
+const dataVetaDescription = {
+  margin: '0 0 1.75rem',
+  maxWidth: '22rem',
+  fontSize: '0.95rem',
+  lineHeight: 1.55,
+  color: '#9ca3af',
+}
+
 export default function HomePage() {
   const navigate = useNavigate()
 
@@ -117,9 +125,12 @@ export default function HomePage() {
       <hr style={sectionDivider} />
 
       <section style={section} aria-labelledby="data-veta-heading">
-        <h2 id="data-veta-heading" style={{ ...sectionHeading, marginBottom: '2rem' }}>
+        <h2 id="data-veta-heading" style={sectionHeading}>
           Data Veta
         </h2>
+        <p style={dataVetaDescription}>
+          Weekly quizzes for revising data analytics with Python.
+        </p>
         <div style={stack}>
           <button
             type="button"
