@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "In a binary classification confusion matrix, which component represents records where the model predicts class “1” but the actual class is “0”?",
+      "options": {
+        "A": "False Positive",
+        "B": "True Positive",
+        "C": "False Negative",
+        "D": "True Negative"
+      },
+      "correctOption": "False Positive"
+    },
+    "2": {
+      "question": "Which of the following correctly defines classification accuracy?",
+      "options": {
+        "A": "(TP + FP)/Total",
+        "B": "(TP + TN)/Total",
+        "C": "(FP + FN)/Total",
+        "D": "TP/(TP + FN)"
+      },
+      "correctOption": "(TP + TN)/Total"
+    },
+    "3": {
+      "question": "Which metric measures the proportion of actual positives correctly identified?",
+      "options": {
+        "A": "Precision",
+        "B": "Recall (Sensitivity)",
+        "C": "Specificity",
+        "D": "Accuracy"
+      },
+      "correctOption": "Recall (Sensitivity)"
+    },
+    "4": {
+      "question": "Reducing the cutoff value from 0.50 to 0.30 will generally:",
+      "options": {
+        "A": "Increase false negatives",
+        "B": "Decrease sensitivity",
+        "C": "Increase specificity",
+        "D": "Increase predicted positives"
+      },
+      "correctOption": "Increase predicted positives"
+    },
+    "5": {
+      "question": "In an ROC curve, the x-axis represents:",
+      "options": {
+        "A": "Sensitivity",
+        "B": "Precision",
+        "C": "False Positive Rate",
+        "D": "Accuracy"
+      },
+      "correctOption": "False Positive Rate"
+    },
+    "6": {
+      "question": "Which value of AUC (Area Under Curve) represents a perfect classifier?",
+      "options": {
+        "A": "0.0",
+        "B": "0.5",
+        "C": "0.75",
+        "D": "1.0"
+      },
+      "correctOption": "1.0"
+    },
+    "7": {
+      "question": "Which of the following metrics is most useful when false negatives are very costly (e.g., disease detection)?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Specificity",
+        "C": "Sensitivity",
+        "D": "Misclassification rate"
+      },
+      "correctOption": "Sensitivity"
+    },
+    "8": {
+      "question": "The first-order regression model with one predictor variable is represented as:",
+      "options": {
+        "A": "y = β₀ + β₁x₁ + ε",
+        "B": "y = β₀ + β₁x₁ + β₂x₂ + ε",
+        "C": "y = β₀x₁ + β₁",
+        "D": "y = β₁x₁² + ε"
+      },
+      "correctOption": "y = β₀ + β₁x₁ + ε"
+    },
+    "9": {
+      "question": "In a second-order regression model with one predictor variable, which additional term is included?",
+      "options": {
+        "A": "x",
+        "B": "x²",
+        "C": "y²",
+        "D": "xy"
+      },
+      "correctOption": "x²"
+    },
+    "10": {
+      "question": "In regression analysis, an interaction term between two variables x₁ and x₂ is represented as:",
+      "options": {
+        "A": "x₁ + x₂",
+        "B": "x₁ − x₂",
+        "C": "x₁x₂",
+        "D": "x₁/x₂"
+      },
+      "correctOption": "x₁x₂"
+    }
+  }

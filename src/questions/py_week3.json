@@ -1,0 +1,77 @@
+[
+    {
+      "question": "Let a population have mean μ = 50 and variance σ² = 100. For samples of size n = 25, the variance of the sampling distribution of the mean is:",
+      "options": ["100.0", "20.0", "4.0", "25.0"],
+      "correct_answer": "4.0"
+    },
+    {
+      "question": "Which statement about Central Limit Theorem is FALSE?",
+      "options": [
+        "It applies to the sample mean",
+        "It requires normal population",
+        "Approximation improves as n increases",
+        "Sampling distribution tends to normality"
+      ],
+      "correct_answer": "It requires normal population"
+    },
+    {
+      "question": "If P = 0.6 and n = 150, what is the standard deviation of the sampling distribution of p̂?",
+      "options": ["0.04", "0.05", "0.06", "0.08"],
+      "correct_answer": "0.04"
+    },
+    {
+      "question": "A sample of size 36 has mean 80 and population standard deviation 12. The margin of error for a 95% CI is:",
+      "options": ["2.0", "3.92", "4.0", "6.0"],
+      "correct_answer": "3.92"
+    },
+    {
+      "question": "Which estimator is unbiased?",
+      "options": [
+        "Sample standard deviation",
+        "Sample variance",
+        "Sample range",
+        "Sample median"
+      ],
+      "correct_answer": "Sample variance"
+    },
+    {
+      "question": "The width of a confidence interval for the population mean will decrease when:",
+      "options": [
+        "Confidence level increases",
+        "Sample size increases",
+        "Population variance increases",
+        "Sample mean increases"
+      ],
+      "correct_answer": "Sample size increases"
+    },
+    {
+      "question": "A 95% CI for a mean is (46.5, 51.5). Which statement is correct?",
+      "options": [
+        "The population mean has a 95% probability of lying in the interval",
+        "95% of sample means lie in this interval",
+        "The CI is constructed so that 95% of such intervals contain μ",
+        "The confidence level equals the sample mean"
+      ],
+      "correct_answer": "The CI is constructed so that 95% of such intervals contain μ"
+    },
+    {
+      "question": "When σ² is unknown and sample size is small, the appropriate distribution for CI estimation of μ is:",
+      "options": [
+        "Z distribution",
+        "Chi-square distribution",
+        "F distribution",
+        "t distribution"
+      ],
+      "correct_answer": "t distribution"
+    },
+    {
+      "question": "A variable is normally distributed with mean μ = 50 and standard deviation σ = 10. What is the Z-score for a value of 65?",
+      "options": ["1.0", "1.5", "2.0", "2.5"],
+      "correct_answer": "1.5"
+    },
+    {
+      "question": "A sample of size 16 is drawn from a normal population. The chi-square statistic for variance estimation has degrees of freedom equal to:",
+      "options": ["15.0", "16.0", "14.0", "30.0"],
+      "correct_answer": "15.0"
+    }
+  ]

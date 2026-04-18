@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "In decision tree algorithm, attribute selection method is used to:",
+      "options": {
+        "A": "Clean data",
+        "B": "Choose best splitting attribute",
+        "C": "Remove outliers",
+        "D": "Normalize features"
+      },
+      "correctOption": "Choose best splitting attribute"
+    },
+    "2": {
+      "question": "CART follows which approach while building trees?",
+      "options": {
+        "A": "Top-down greedy",
+        "B": "Bottom-up greedy",
+        "C": "Random search",
+        "D": "Backtracking"
+      },
+      "correctOption": "Top-down greedy"
+    },
+    "3": {
+      "question": "The Gini index is mainly used for:",
+      "options": {
+        "A": "Clustering",
+        "B": "Classification",
+        "C": "Regression only",
+        "D": "Sampling"
+      },
+      "correctOption": "Classification"
+    },
+    "4": {
+      "question": "Information gain is biased towards:",
+      "options": {
+        "A": "Attributes with many values",
+        "B": "Attributes with fewer values",
+        "C": "Continuous attributes only",
+        "D": "Binary attributes only"
+      },
+      "correctOption": "Attributes with many values"
+    },
+    "5": {
+      "question": "Gain ratio is used to:",
+      "options": {
+        "A": "Increase bias",
+        "B": "Normalize dataset",
+        "C": "Reduce dataset size",
+        "D": "Remove bias of information gain"
+      },
+      "correctOption": "Remove bias of information gain"
+    },
+    "6": {
+      "question": "Which of the following ensures binary splits in decision trees?",
+      "options": {
+        "A": "Information gain",
+        "B": "Gain ratio",
+        "C": "Gini index",
+        "D": "Entropy"
+      },
+      "correctOption": "Gini index"
+    },
+    "7": {
+      "question": "In hierarchical clustering, HAC stands for:",
+      "options": {
+        "A": "Hierarchical Analytical Clustering",
+        "B": "Hierarchical Agglomerative Clustering",
+        "C": "Hybrid Agglomerative Clustering",
+        "D": "High Accuracy Clustering"
+      },
+      "correctOption": "Hierarchical Agglomerative Clustering"
+    },
+    "8": {
+      "question": "The Euclidean distance formula is used to:",
+      "options": {
+        "A": "Measure similarity",
+        "B": "Normalize data",
+        "C": "Measure dissimilarity",
+        "D": "Reduce dimensions"
+      },
+      "correctOption": "Measure dissimilarity"
+    },
+    "9": {
+      "question": "LabelEncoder in Python is used for:",
+      "options": {
+        "A": "Scaling data",
+        "B": "Encoding categorical variables",
+        "C": "Feature selection",
+        "D": "Data splitting"
+      },
+      "correctOption": "Encoding categorical variables"
+    },
+    "10": {
+      "question": "The function fit_transform() in encoding:",
+      "options": {
+        "A": "Only fits model",
+        "B": "Only transforms data",
+        "C": "Fits and transforms data",
+        "D": "Deletes missing values"
+      },
+      "correctOption": "Fits and transforms data"
+    }
+  }

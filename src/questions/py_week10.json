@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "A researcher wants to test whether region (categorical variable) and investment type (categorical variable) are related. Which test is most appropriate?",
+      "options": {
+        "A": "Chi-square test of independence",
+        "B": "t-test",
+        "C": "ANOVA",
+        "D": "Z-test"
+      },
+      "correctOption": "Chi-square test of independence"
+    },
+    "2": {
+      "question": "Degrees of freedom in a contingency table with 4 rows and 3 columns:",
+      "options": {
+        "A": "6.0",
+        "B": "12.0",
+        "C": "5.0",
+        "D": "7.0"
+      },
+      "correctOption": "6.0"
+    },
+    "3": {
+      "question": "A Chi-square test shows significance, but several expected frequencies are below 5. What is the most appropriate action?",
+      "options": {
+        "A": "Ignore the issue",
+        "B": "Combine categories",
+        "C": "Increase significance level",
+        "D": "Use regression"
+      },
+      "correctOption": "Combine categories"
+    },
+    "4": {
+      "question": "In a contingency table, if row and column variables are independent, then:",
+      "options": {
+        "A": "Observed = Expected",
+        "B": "Observed > Expected",
+        "C": "Observed < Expected",
+        "D": "Cannot be compared"
+      },
+      "correctOption": "Observed = Expected"
+    },
+    "5": {
+      "question": "Which situation violates Chi-square assumptions?",
+      "options": {
+        "A": "Categorical data",
+        "B": "Independent observations",
+        "C": "Expected frequency < 5",
+        "D": "Large sample size"
+      },
+      "correctOption": "Expected frequency < 5"
+    },
+    "6": {
+      "question": "Cluster analysis may give misleading results when:",
+      "options": {
+        "A": "Data is standardized",
+        "B": "Variables are correlated",
+        "C": "Variables are on different scales",
+        "D": "Sample size is large"
+      },
+      "correctOption": "Variables are on different scales"
+    },
+    "7": {
+      "question": "Which method is most sensitive to outliers in clustering?",
+      "options": {
+        "A": "Hierarchical clustering",
+        "B": "K-means clustering",
+        "C": "Chi-square test",
+        "D": "Regression"
+      },
+      "correctOption": "K-means clustering"
+    },
+    "8": {
+      "question": "A marketer uses clustering to segment customers but finds unstable clusters. The most likely issue is:",
+      "options": {
+        "A": "Too many observations",
+        "B": "Poor variable selection",
+        "C": "High significance level",
+        "D": "Low degrees of freedom"
+      },
+      "correctOption": "Poor variable selection"
+    },
+    "9": {
+      "question": "Which situation best suits cluster analysis?",
+      "options": {
+        "A": "Predicting sales",
+        "B": "Grouping customers based on behavior",
+        "C": "Testing independence",
+        "D": "Estimating mean"
+      },
+      "correctOption": "Grouping customers based on behavior"
+    },
+    "10": {
+      "question": "Standardization transforms data so that:",
+      "options": {
+        "A": "Mean = 0 and deviation = 1",
+        "B": "Mean = 1",
+        "C": "Variance = 0",
+        "D": "Values increase"
+      },
+      "correctOption": "Mean = 0 and deviation = 1"
+    }
+  }

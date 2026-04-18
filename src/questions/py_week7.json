@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "When regression assumptions about the error term are violated, which of the following may occur?",
+      "options": {
+        "A": "Coefficient of determination becomes zero",
+        "B": "Hypothesis testing results become unreliable",
+        "C": "Regression line disappears",
+        "D": "Sample size automatically reduces"
+      },
+      "correctOption": "Hypothesis testing results become unreliable"
+    },
+    "2": {
+      "question": "Residual analysis is primarily used to:",
+      "options": {
+        "A": "Estimate regression coefficients",
+        "B": "Test multicollinearity",
+        "C": "Validate regression model assumptions",
+        "D": "Maximize R²"
+      },
+      "correctOption": "Validate regression model assumptions"
+    },
+    "3": {
+      "question": "If the variance of residuals increases as the value of the independent variable increases, this indicates:",
+      "options": {
+        "A": "Heteroscedasticity",
+        "B": "Autocorrelation",
+        "C": "Multicollinearity",
+        "D": "Normality"
+      },
+      "correctOption": "Heteroscedasticity"
+    },
+    "4": {
+      "question": "A residual plot showing a clear curved pattern suggests:",
+      "options": {
+        "A": "The model fits perfectly",
+        "B": "Constant variance exists",
+        "C": "A linear model may be inappropriate",
+        "D": "Errors are normally distributed"
+      },
+      "correctOption": "A linear model may be inappropriate"
+    },
+    "5": {
+      "question": "Standardized residuals are primarily used to:",
+      "options": {
+        "A": "Detect outliers",
+        "B": "Increase R²",
+        "C": "Reduce bias in coefficients",
+        "D": "Transform dependent variables"
+      },
+      "correctOption": "Detect outliers"
+    },
+    "6": {
+      "question": "If residuals exhibit non-constant variance, the immediate consequence is:",
+      "options": {
+        "A": "Biased regression coefficients",
+        "B": "Invalid hypothesis tests and confidence intervals",
+        "C": "Incorrect sign of slope",
+        "D": "Perfect multicollinearity"
+      },
+      "correctOption": "Invalid hypothesis tests and confidence intervals"
+    },
+    "7": {
+      "question": "In a multiple linear regression model, multicollinearity primarily affects:",
+      "options": {
+        "A": "The unbiasedness of regression coefficients",
+        "B": "The magnitude of the dependent variable",
+        "C": "The stability and standard errors of coefficient estimates",
+        "D": "The calculation of residuals"
+      },
+      "correctOption": "The stability and standard errors of coefficient estimates"
+    },
+    "8": {
+      "question": "In multiple regression, the adjusted R² is preferred over R² because it:",
+      "options": {
+        "A": "Always increases when a new variable is added",
+        "B": "Penalizes the inclusion of irrelevant independent variables",
+        "C": "Eliminates multicollinearity",
+        "D": "Guarantees better prediction accuracy"
+      },
+      "correctOption": "Penalizes the inclusion of irrelevant independent variables"
+    },
+    "9": {
+      "question": "In a multiple regression model with k independent variables, the overall F-test is used to test whether:",
+      "options": {
+        "A": "All regression coefficients are individually significant",
+        "B": "At least one independent variable is statistically significant",
+        "C": "The intercept is equal to zero",
+        "D": "Residuals are normally distributed"
+      },
+      "correctOption": "At least one independent variable is statistically significant"
+    },
+    "10": {
+      "question": "In a regression model with a dummy variable representing gender (Male = 1, Female = 0), the coefficient of the dummy variable represents:",
+      "options": {
+        "A": "The average value of the dependent variable for males",
+        "B": "The difference in mean dependent variable between males and females",
+        "C": "The slope of the continuous independent variable",
+        "D": "The variance of the dependent variable"
+      },
+      "correctOption": "The difference in mean dependent variable between males and females"
+    }
+  }

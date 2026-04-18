@@ -5,13 +5,39 @@ const page = {
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
-  justifyContent: 'center',
-  padding: '2rem 1.5rem',
+  justifyContent: 'flex-start',
+  gap: '2.5rem',
+  padding: '2.5rem 1.5rem 3rem',
   boxSizing: 'border-box',
   background: '#0c0c0c',
   color: '#d4d4d4',
   textAlign: 'center',
   fontFamily: 'system-ui, Segoe UI, Roboto, sans-serif',
+}
+
+const section = {
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  width: '100%',
+  maxWidth: '24rem',
+}
+
+const sectionDivider = {
+  width: '100%',
+  maxWidth: '20rem',
+  height: '1px',
+  background: '#2a2a2a',
+  border: 'none',
+  margin: 0,
+}
+
+const sectionHeading = {
+  margin: '0 0 0.75rem',
+  fontSize: 'clamp(1.35rem, 4vw, 1.65rem)',
+  fontWeight: 600,
+  letterSpacing: '-0.02em',
+  color: '#e5e5e5',
 }
 
 const heading = {
@@ -56,33 +82,54 @@ export default function HomePage() {
 
   return (
     <main style={page}>
-      <h1 style={heading}>Gender Bender</h1>
-      <p style={description}>
-        A quiz app to revise contextualising gender assignments
-      </p>
-      <div style={stack}>
-        <button
-          type="button"
-          style={buttonBase}
-          onClick={() => navigate('/quiz')}
-        >
-          Start Quiz
-        </button>
-        <button
-          type="button"
-          style={buttonBase}
-          onClick={() => navigate('/resources')}
-        >
-          Learning resources
-        </button>
-        <button
-          type="button"
-          style={buttonBase}
-          onClick={() => navigate('/tips')}
-        >
-          Tips and Tricks
-        </button>
-      </div>
+      <section style={section} aria-labelledby="gender-bender-heading">
+        <h1 id="gender-bender-heading" style={heading}>
+          Gender Bender
+        </h1>
+        <p style={description}>
+          A quiz app to revise contextualising gender assignments
+        </p>
+        <div style={stack}>
+          <button
+            type="button"
+            style={buttonBase}
+            onClick={() => navigate('/quiz')}
+          >
+            Start Quiz
+          </button>
+          <button
+            type="button"
+            style={buttonBase}
+            onClick={() => navigate('/resources')}
+          >
+            Learning resources
+          </button>
+          <button
+            type="button"
+            style={buttonBase}
+            onClick={() => navigate('/tips')}
+          >
+            Tips and Tricks
+          </button>
+        </div>
+      </section>
+
+      <hr style={sectionDivider} />
+
+      <section style={section} aria-labelledby="data-veta-heading">
+        <h2 id="data-veta-heading" style={{ ...sectionHeading, marginBottom: '2rem' }}>
+          Data Veta
+        </h2>
+        <div style={stack}>
+          <button
+            type="button"
+            style={buttonBase}
+            onClick={() => navigate('/data/quiz')}
+          >
+            Start Quiz
+          </button>
+        </div>
+      </section>
     </main>
   )
 }

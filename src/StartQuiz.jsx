@@ -1,4 +1,4 @@
-import { Link, useNavigate } from 'react-router-dom'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
 
 const page = {
   minHeight: '100svh',
@@ -60,20 +60,27 @@ const weekButtons = [
 
 export default function StartQuiz() {
   const navigate = useNavigate()
+  const { pathname } = useLocation()
+  const isDataVeta = pathname.startsWith('/data')
+  const quizBase = isDataVeta ? '/data/quiz' : '/quiz'
 
   return (
     <main style={page}>
       <Link to="/" style={backLink}>
         ← Back
       </Link>
-      <h1 style={heading}>Select week to revise</h1>
+      <h1 style={heading}>
+        {isDataVeta
+          ? 'Data Veta — select week'
+          : 'Select week to revise'}
+      </h1>
       <div style={stack}>
         {weekButtons.map(({ label, param }) => (
           <button
             key={param}
             type="button"
             style={buttonBase}
-            onClick={() => navigate(`/quiz/${param}`)}
+            onClick={() => navigate(`${quizBase}/${param}`)}
           >
             {label}
           </button>

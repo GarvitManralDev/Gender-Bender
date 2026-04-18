@@ -19,6 +19,8 @@ function App() {
         <Route path="/tips" element={<TipsAndTricks />} />
         <Route path="/quiz" element={<StartQuiz />} />
         <Route path="/quiz/:week" element={<QuizPageRoute />} />
+        <Route path="/data/quiz" element={<StartQuiz />} />
+        <Route path="/data/quiz/:week" element={<QuizPageRoute />} />
       </Routes>
     </BrowserRouter>
   )

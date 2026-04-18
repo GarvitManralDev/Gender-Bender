@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Data analytics is best defined as:",
+      "options": {
+        "A": "Collection of large volumes of data",
+        "B": "Storage of structured and unstructured data",
+        "C": "Scientific process of transforming data into insights for decision-making",
+        "D": "Visualization of data using graphs"
+      },
+      "correctOption": "Scientific process of transforming data into insights for decision-making"
+    },
+    "2": {
+      "question": "Which of the following represents the correct order of data analytics types based on workflow?",
+      "options": {
+        "A": "Predictive → Descriptive → Prescriptive → Diagnostic",
+        "B": "Descriptive → Diagnostic → Predictive → Prescriptive",
+        "C": "Diagnostic → Descriptive → Prescriptive → Predictive",
+        "D": "Descriptive → Predictive → Diagnostic → Prescriptive"
+      },
+      "correctOption": "Descriptive → Diagnostic → Predictive → Prescriptive"
+    },
+    "3": {
+      "question": "Under which level of measurement does the variable “height of a person” fall?",
+      "options": {
+        "A": "Nominal",
+        "B": "Ordinal",
+        "C": "Interval",
+        "D": "Ratio"
+      },
+      "correctOption": "Ratio"
+    },
+    "4": {
+      "question": "In Python (Pandas), which command is used to select rows by integer position?",
+      "options": {
+        "A": "df.loc[]",
+        "B": "df.select()",
+        "C": "df.iloc[]",
+        "D": "df.index[]"
+      },
+      "correctOption": "df.iloc[]"
+    },
+    "5": {
+      "question": "Which of the following is NOT a benefit of using Jupyter Notebook?",
+      "options": {
+        "A": "Easy documentation",
+        "B": "User-friendly interface",
+        "C": "Faster hardware execution",
+        "D": "Web-based code editing"
+      },
+      "correctOption": "Faster hardware execution"
+    },
+    "6": {
+      "question": "The arithmetic mean is NOT appropriate for which type of data?",
+      "options": {
+        "A": "Interval",
+        "B": "Ratio",
+        "C": "Ordinal",
+        "D": "Nominal"
+      },
+      "correctOption": "Nominal"
+    },
+    "7": {
+      "question": "If a distribution is positively skewed, which relationship holds true?",
+      "options": {
+        "A": "Mean < Median < Mode",
+        "B": "Mode < Median < Mean",
+        "C": "Mean = Median = Mode",
+        "D": "Median < Mean < Mode"
+      },
+      "correctOption": "Mode < Median < Mean"
+    },
+    "8": {
+      "question": "Which measure is used to compare relative dispersion between two datasets?",
+      "options": {
+        "A": "Variance",
+        "B": "Standard deviation",
+        "C": "Range",
+        "D": "Coefficient of variation"
+      },
+      "correctOption": "Coefficient of variation"
+    },
+    "9": {
+      "question": "A dataset has a mean of 50 and a standard deviation of 10. According to the Empirical Rule, approximately what percentage of observations lie between 30 and 70?",
+      "options": {
+        "A": "68%",
+        "B": "75%",
+        "C": "95%",
+        "D": "99.7%"
+      },
+      "correctOption": "95%"
+    },
+    "10": {
+      "question": "Consider the following Python code: x = [10, 20, 30]; y = x; y.append(40); print(len(x)). What will be the output?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "Error",
+        "D": "1"
+      },
+      "correctOption": "4"
+    }
+  }

@@ -1,10 +1,15 @@
 import { useMemo, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import Card from './components/Card.jsx'
 
 const LETTERS = ['A', 'B', 'C', 'D']
 
-const weekFiles = import.meta.glob('./questions/week*.json', { eager: true })
+const genderWeekFiles = import.meta.glob('./questions/week*.json', {
+  eager: true,
+})
+const pythonWeekFiles = import.meta.glob('./questions/py_week*.json', {
+  eager: true,
+})
 
 const page = {
   minHeight: '100svh',
@@ -53,11 +58,20 @@ function weekNumFromPath(path) {
   return m ? parseInt(m[1], 10) : 0
 }
 
-function getWeekData(weekNum) {
-  for (const [path, mod] of Object.entries(weekFiles)) {
+function getWeekData(weekNum, files) {
+  for (const [path, mod] of Object.entries(files)) {
     if (weekNumFromPath(path) === weekNum) return mod.default
   }
   return null
+}
+
+function maxWeekInFiles(files) {
+  let max = 0
+  for (const path of Object.keys(files)) {
+    const n = weekNumFromPath(path)
+    if (n > max) max = n
+  }
+  return max
 }
 
 function normalizeEntry(raw, id) {
@@ -80,11 +94,12 @@ function normalizeEntry(raw, id) {
   }
 }
 
-function buildQuestionList(weekKey) {
+function buildQuestionList(weekKey, files) {
   const out = []
+  const maxW = maxWeekInFiles(files) || 12
   if (weekKey === 'all') {
-    for (let w = 1; w <= 12; w++) {
-      const data = getWeekData(w)
+    for (let w = 1; w <= maxW; w++) {
+      const data = getWeekData(w, files)
       if (!data) continue
       for (const [qid, entry] of Object.entries(data)) {
         const q = normalizeEntry(entry, `${w}-${qid}`)
@@ -93,8 +108,8 @@ function buildQuestionList(weekKey) {
     }
   } else {
     const w = parseInt(weekKey, 10)
-    if (w >= 1 && w <= 12) {
-      const data = getWeekData(w)
+    if (w >= 1 && w <= maxW) {
+      const data = getWeekData(w, files)
       if (data) {
         for (const [qid, entry] of Object.entries(data)) {
           const q = normalizeEntry(entry, `${w}-${qid}`)
@@ -117,7 +132,15 @@ function shuffle(arr) {
 
 export default function QuizPage() {
   const { week } = useParams()
-  const questions = useMemo(() => shuffle(buildQuestionList(week)), [week])
+  const { pathname } = useLocation()
+  const isDataVeta = pathname.startsWith('/data')
+  const weekFiles = isDataVeta ? pythonWeekFiles : genderWeekFiles
+  const quizWeeksPath = isDataVeta ? '/data/quiz' : '/quiz'
+
+  const questions = useMemo(
+    () => shuffle(buildQuestionList(week, weekFiles)),
+    [week, weekFiles],
+  )
 
   const [index, setIndex] = useState(0)
   const [records, setRecords] = useState([])
@@ -149,7 +172,7 @@ export default function QuizPage() {
 
   return (
     <main style={page}>
-      <Link to="/quiz" style={backLink}>
+      <Link to={quizWeeksPath} style={backLink}>
         ← Weeks
       </Link>
 
@@ -227,7 +250,7 @@ export default function QuizPage() {
           )}
 
           <Link
-            to="/quiz"
+            to={quizWeeksPath}
             style={{
               ...backLink,
               display: 'inline-block',

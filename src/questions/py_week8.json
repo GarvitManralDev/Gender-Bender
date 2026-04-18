@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "In regression modeling, the key difference between the dependent variable in linear regression and logistic regression is that:",
+      "options": {
+        "A": "Both require binary dependent variables",
+        "B": "Linear regression requires continuous dependent variable while logistic regression requires binary dependent variable",
+        "C": "Logistic regression requires continuous dependent variable",
+        "D": "Both require normally distributed dependent variables"
+      },
+      "correctOption": "Linear regression requires continuous dependent variable while logistic regression requires binary dependent variable"
+    },
+    "2": {
+      "question": "Which measure is primarily used to assess model fit in logistic regression instead of the sum of squared errors used in linear regression?",
+      "options": {
+        "A": "Adjusted R²",
+        "B": "Mean absolute error",
+        "C": "−2 Log Likelihood",
+        "D": "Mean squared error"
+      },
+      "correctOption": "−2 Log Likelihood"
+    },
+    "3": {
+      "question": "Which statistical test is used to evaluate the overall significance of the logistic regression model?",
+      "options": {
+        "A": "t test",
+        "B": "F test",
+        "C": "G test",
+        "D": "Z test"
+      },
+      "correctOption": "G test"
+    },
+    "4": {
+      "question": "The coefficients in logistic regression are interpreted primarily using:",
+      "options": {
+        "A": "standardized beta coefficients",
+        "B": "correlation coefficients",
+        "C": "variance inflation factors",
+        "D": "odds ratios"
+      },
+      "correctOption": "odds ratios"
+    },
+    "5": {
+      "question": "In logistic regression, the odds ratio for an independent variable measures:",
+      "options": {
+        "A": "change in odds for one-unit increase in predictor",
+        "B": "change in probability for one-unit increase",
+        "C": "change in mean response",
+        "D": "goodness of fit of the model"
+      },
+      "correctOption": "change in odds for one-unit increase in predictor"
+    },
+    "6": {
+      "question": "If the odds of an event occurring are 3, the corresponding probability is:",
+      "options": {
+        "A": "0.5",
+        "B": "0.6",
+        "C": "0.75",
+        "D": "0.8"
+      },
+      "correctOption": "0.75"
+    },
+    "7": {
+      "question": "In logistic regression model evaluation, the difference between the −2 log likelihood of the base model and the proposed model follows approximately which distribution?",
+      "options": {
+        "A": "chi-square distribution",
+        "B": "t distribution",
+        "C": "normal distribution",
+        "D": "F distribution"
+      },
+      "correctOption": "chi-square distribution"
+    },
+    "8": {
+      "question": "The Wald test statistic used in logistic regression for testing significance of coefficients is:",
+      "options": {
+        "A": "β̂ / SE(β̂)",
+        "B": "β̂² / SE(β̂)",
+        "C": "β̂ / SE(β̂)²",
+        "D": "β̂ × SE(β̂)"
+      },
+      "correctOption": "β̂ / SE(β̂)"
+    },
+    "9": {
+      "question": "In logistic regression, the relationship between predictors and probability is modeled using:",
+      "options": {
+        "A": "linear probability function",
+        "B": "exponential function",
+        "C": "logistic (sigmoid) function",
+        "D": "quadratic function"
+      },
+      "correctOption": "logistic (sigmoid) function"
+    },
+    "10": {
+      "question": "If the estimated probability of an event is P = 0.40, the corresponding odds are:",
+      "options": {
+        "A": "0.4",
+        "B": "0.67",
+        "C": "1.5",
+        "D": "2.5"
+      },
+      "correctOption": "0.67"
+    }
+  }

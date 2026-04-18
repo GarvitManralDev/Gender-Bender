@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "In cluster analysis, dissimilarity between two objects is:",
+      "options": {
+        "A": "Always negative",
+        "B": "Always zero",
+        "C": "Non-negative and increases with difference",
+        "D": "Equal to correlation"
+      },
+      "correctOption": "Non-negative and increases with difference"
+    },
+    "2": {
+      "question": "If all values of a variable are missing, what should be done?",
+      "options": {
+        "A": "Replace with mean",
+        "B": "Ignore missing values",
+        "C": "Remove variable",
+        "D": "Normalize"
+      },
+      "correctOption": "Remove variable"
+    },
+    "3": {
+      "question": "Categorical variable dissimilarity is based on:",
+      "options": {
+        "A": "Ratio of mismatches",
+        "B": "Mean difference",
+        "C": "Variance",
+        "D": "Correlation"
+      },
+      "correctOption": "Ratio of mismatches"
+    },
+    "4": {
+      "question": "If two objects match perfectly in a categorical variable, dissimilarity is:",
+      "options": {
+        "A": "1.0",
+        "B": "0.0",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctOption": "0.0"
+    },
+    "5": {
+      "question": "Why are ordinal variables standardized to [0,1]?",
+      "options": {
+        "A": "Increase variance",
+        "B": "Reduce sample size",
+        "C": "Improve correlation",
+        "D": "Different variable scales need normalization"
+      },
+      "correctOption": "Different variable scales need normalization"
+    },
+    "6": {
+      "question": "If max = 3.08 and min = 1.34, normalization denominator is:",
+      "options": {
+        "A": "1.74",
+        "B": "2.08",
+        "C": "3.08",
+        "D": "1.0"
+      },
+      "correctOption": "1.74"
+    },
+    "7": {
+      "question": "The objective function in K-means minimizes:",
+      "options": {
+        "A": "Between-cluster distance",
+        "B": "Sum of squared distances within clusters",
+        "C": "Correlation",
+        "D": "Variance between clusters"
+      },
+      "correctOption": "Sum of squared distances within clusters"
+    },
+    "8": {
+      "question": "Two objects are described by 4 categorical variables. They match in 3 variables and differ in 1 variable. What is the dissimilarity?",
+      "options": {
+        "A": "0.25",
+        "B": "0.5",
+        "C": "0.75",
+        "D": "1.0"
+      },
+      "correctOption": "0.25"
+    },
+    "9": {
+      "question": "Given log-transformed values: Object 1 = 2.65, Object 2 = 1.34, Maximum = 3.08, Minimum = 1.34. Find the normalized dissimilarity between objects 1 and 2:",
+      "options": {
+        "A": "0.5",
+        "B": "0.75",
+        "C": "1.0",
+        "D": "0.25"
+      },
+      "correctOption": "0.75"
+    },
+    "10": {
+      "question": "Consider two centroids: C1 = (1,1), C2 = (5,5). A point P = (2,3). Which cluster will P belong to (using Euclidean distance)?",
+      "options": {
+        "A": "Cluster 1",
+        "B": "Cluster 2",
+        "C": "Both equally",
+        "D": "Cannot determine"
+      },
+      "correctOption": "Cluster 1"
+    }
+  }
