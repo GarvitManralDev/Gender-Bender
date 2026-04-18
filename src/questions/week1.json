@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "The Second Sex was first published in:",
+      "options": {
+        "A": "1945",
+        "B": "1947",
+        "C": "1949",
+        "D": "1953"
+      },
+      "correctOption": "1949"
+    },
+    "2": {
+      "question": "Which critic coined the term Écriture féminine or “women’s writing”?",
+      "options": {
+        "A": "Luce Irigaray",
+        "B": "Julia Kristeva",
+        "C": "Hélène Cixous",
+        "D": "Nancy Chodorow"
+      },
+      "correctOption": "Hélène Cixous"
+    },
+    "3": {
+      "question": "What is the name of the volume in The Second Sex (1949) which opens with a simple definition: Woman is “a womb, an ovary” (41)?",
+      "options": {
+        "A": "Destiny",
+        "B": "Situation",
+        "C": "History",
+        "D": "Myth"
+      },
+      "correctOption": "Destiny"
+    },
+    "4": {
+      "question": "Who is recognized as the first female professional writer of the Middle Ages and an author at the court of King Charles VI of France, known for The Book of the City of Ladies?",
+      "options": {
+        "A": "Jane Anger",
+        "B": "Mary Wollstonecraft",
+        "C": "Virginia Woolf",
+        "D": "Christine de Pizan"
+      },
+      "correctOption": "Christine de Pizan"
+    },
+    "5": {
+      "question": "The epigraph of Simone de Beauvoir’s She Came to Stay that says “each consciousness pursues the death of the other” is taken from:",
+      "options": {
+        "A": "Nietzsche’s Thus Spoke Zarathustra",
+        "B": "Hegel’s Phenomenology of Spirit",
+        "C": "Sartre’s Being and Nothingness",
+        "D": "Kierkegaard’s Either/Or"
+      },
+      "correctOption": "Hegel’s Phenomenology of Spirit"
+    },
+    "6": {
+      "question": "Simone de Beauvoir’s novel She Came to Stay was published in:",
+      "options": {
+        "A": "1937",
+        "B": "1943",
+        "C": "1949",
+        "D": "1951"
+      },
+      "correctOption": "1943"
+    },
+    "7": {
+      "question": "The film And God Created Woman was directed by:",
+      "options": {
+        "A": "François Truffaut",
+        "B": "Jean-Luc Godard",
+        "C": "Roger Vadim",
+        "D": "Claude Chabrol"
+      },
+      "correctOption": "Roger Vadim"
+    },
+    "8": {
+      "question": "Rosabeth Kanter’s Men and Women of the Corporation (1977) explored:",
+      "options": {
+        "A": "Gender bias in literature",
+        "B": "Workplace structures and gender inequality in US",
+        "C": "Cultural construction of sexuality in Europe",
+        "D": "Domestic division of labor in Spain"
+      },
+      "correctOption": "Workplace structures and gender inequality in US"
+    },
+    "9": {
+      "question": "The Cyborg Manifesto (1985) was written by:",
+      "options": {
+        "A": "Rosi Braidotti",
+        "B": "Donna Haraway",
+        "C": "Anne Balsamo",
+        "D": "Teresa de Lauretis"
+      },
+      "correctOption": "Donna Haraway"
+    },
+    "10": {
+      "question": "Who wrote the essay Silly Novels by Lady Novelists?",
+      "options": {
+        "A": "Mary Wollstonecraft",
+        "B": "George Eliot",
+        "C": "Virginia Woolf",
+        "D": "Harriet Taylor"
+      },
+      "correctOption": "George Eliot"
+    }
+  }

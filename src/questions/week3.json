@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Which among the following novels combined African American folklore, history, and literary tradition to celebrate the moral and spiritual revival of Macon Dead?",
+      "options": {
+        "A": "Beloved (1987)",
+        "B": "The Bluest Eye (1970)",
+        "C": "Sula (1973)",
+        "D": "Song of Solomon (1977)"
+      },
+      "correctOption": "Song of Solomon (1977)"
+    },
+    "2": {
+      "question": "Who among the following was the first black American woman to win the 1993 Nobel Prize for Literature?",
+      "options": {
+        "A": "Alice Walker",
+        "B": "Toni Morrison",
+        "C": "Roxanne Gay",
+        "D": "bell hooks"
+      },
+      "correctOption": "Toni Morrison"
+    },
+    "3": {
+      "question": "Who among the following critics coined the term ‘queer theory’?",
+      "options": {
+        "A": "Teresa de Lauretis",
+        "B": "Nancy Chodorow",
+        "C": "Judith Butler",
+        "D": "Anne Balsamo"
+      },
+      "correctOption": "Teresa de Lauretis"
+    },
+    "4": {
+      "question": "Which fictional character of Toni Morrison wished for blue eyes to beautify herself?",
+      "options": {
+        "A": "Sula Peace",
+        "B": "Pecola Breedlove",
+        "C": "Sethe",
+        "D": "Baby Suggs"
+      },
+      "correctOption": "Pecola Breedlove"
+    },
+    "5": {
+      "question": "Which of the following novels by Toni Morrison won the Pulitzer Prize for fiction?",
+      "options": {
+        "A": "Beloved (1987)",
+        "B": "The Bluest Eye (1970)",
+        "C": "Sula (1973)",
+        "D": "Song of Solomon (1977)"
+      },
+      "correctOption": "Beloved (1987)"
+    },
+    "6": {
+      "question": "Which of the following critical works is authored by Nancy Chodorow?",
+      "options": {
+        "A": "Technologies of the Gendered Body (1996)",
+        "B": "Bodies that Matter (1993)",
+        "C": "Epistemology of the Closet (1990)",
+        "D": "The Reproduction of Mothering (1978)"
+      },
+      "correctOption": "The Reproduction of Mothering (1978)"
+    },
+    "7": {
+      "question": "In Toni Morrison’s Beloved (1987), which character kills her daughter to save her from slavery?",
+      "options": {
+        "A": "Denver",
+        "B": "Paul D",
+        "C": "Sethe",
+        "D": "Mr. Bodwin"
+      },
+      "correctOption": "Sethe"
+    },
+    "8": {
+      "question": "Which of the following propositions were made by Teresa De Lauretis in Technologies of Gender (1987)?",
+      "options": {
+        "A": "Gender is a representation",
+        "B": "Gender is constructed through technologies and discourse",
+        "C": "Gender representation is its construction",
+        "D": "All of the above"
+      },
+      "correctOption": "All of the above"
+    },
+    "9": {
+      "question": "Which of the following is not one of Teresa de Lauretis’s four propositions?",
+      "options": {
+        "A": "Gender is a representation",
+        "B": "Gender’s representation is its construction",
+        "C": "Gender is biologically inherited",
+        "D": "Gender construction is ongoing through discourse"
+      },
+      "correctOption": "Gender is biologically inherited"
+    },
+    "10": {
+      "question": "Who famously said “anatomy is destiny,” linking gender to biological sex?",
+      "options": {
+        "A": "Judith Butler",
+        "B": "Michel Foucault",
+        "C": "Sigmund Freud",
+        "D": "Simone de Beauvoir"
+      },
+      "correctOption": "Sigmund Freud"
+    }
+  }

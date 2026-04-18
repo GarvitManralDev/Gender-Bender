@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "The body in cyborg discourse is viewed as:",
+      "options": {
+        "A": "A mechanically neutral system",
+        "B": "A cultural site shaped by political and technological forces",
+        "C": "A purely fictional metaphor",
+        "D": "A fully post-gender evolutionary form"
+      },
+      "correctOption": "A cultural site shaped by political and technological forces"
+    },
+    "2": {
+      "question": "Balsamo’s argument aligns with Foucault in suggesting that:",
+      "options": {
+        "A": "Bodies exist outside ideology",
+        "B": "Technology replaces the need for culture",
+        "C": "Identity becomes irrelevant in discourse",
+        "D": "Power shapes embodiment through discourse and regulation"
+      },
+      "correctOption": "Power shapes embodiment through discourse and regulation"
+    },
+    "3": {
+      "question": "The postmodern body (after Kroker) is viewed as:",
+      "options": {
+        "A": "A purely biological truth",
+        "B": "A culturally coded product of technology and media",
+        "C": "A stable gender category",
+        "D": "Separate from representation"
+      },
+      "correctOption": "A culturally coded product of technology and media"
+    },
+    "4": {
+      "question": "Jardine warns feminism that:",
+      "options": {
+        "A": "Essentialism cannot be challenged",
+        "B": "Defining “woman” is politically necessary yet unstable",
+        "C": "Technology destroys meaning",
+        "D": "Identity must remain fixed"
+      },
+      "correctOption": "Defining “woman” is politically necessary yet unstable"
+    },
+    "5": {
+      "question": "Florence Griffith Joyner’s media portrayal reveals:",
+      "options": {
+        "A": "Athleticism without gender framing",
+        "B": "The erasure of femininity",
+        "C": "A fetishized framing of women’s athletic bodies",
+        "D": "Neutral cultural representation"
+      },
+      "correctOption": "A fetishized framing of women’s athletic bodies"
+    },
+    "6": {
+      "question": "Balsamo argues female athletes should be:",
+      "options": {
+        "A": "Returned to beauty standards",
+        "B": "Removed from sports",
+        "C": "Humanized rather than aestheticized",
+        "D": "Reduced to symbolic icons"
+      },
+      "correctOption": "Humanized rather than aestheticized"
+    },
+    "7": {
+      "question": "“Cyberspace” was popularized by:",
+      "options": {
+        "A": "William Gibson",
+        "B": "Donna Haraway",
+        "C": "Jaron Lanier",
+        "D": "Katherine Hayles"
+      },
+      "correctOption": "William Gibson"
+    },
+    "8": {
+      "question": "VR systems often recreate:",
+      "options": {
+        "A": "Gender-neutral worlds",
+        "B": "Revisionist and traditional gender expectations",
+        "C": "Only biological reflection",
+        "D": "Equality as default"
+      },
+      "correctOption": "Revisionist and traditional gender expectations"
+    },
+    "9": {
+      "question": "Feminist technoculture argues bodies are shaped by:",
+      "options": {
+        "A": "Purely medical practice",
+        "B": "Economic models",
+        "C": "Power, discourse, and technology",
+        "D": "Natural law"
+      },
+      "correctOption": "Power, discourse, and technology"
+    },
+    "10": {
+      "question": "Fiction matters in technoculture because it:",
+      "options": {
+        "A": "Has no real-world impact",
+        "B": "Distracts from theory",
+        "C": "Helps conceptualize emerging techno-cultural realities",
+        "D": "Rejects gender"
+      },
+      "correctOption": "Helps conceptualize emerging techno-cultural realities"
+    }
+  }

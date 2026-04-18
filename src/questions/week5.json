@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Which among the following novels is narrated by an intersex character?",
+      "options": {
+        "A": "The Wolf Hall (2009) by Hilary Mantel",
+        "B": "Middlesex (2002) by Jeffrey Eugenides",
+        "C": "Atonement (2001) by Ian McEwan",
+        "D": "The Line of Beauty (2004) by Alan Hollinghurst"
+      },
+      "correctOption": "Middlesex (2002) by Jeffrey Eugenides"
+    },
+    "2": {
+      "question": "Which Greek dramatist portrayed Achilles and Patroclus as pederastic lovers?",
+      "options": {
+        "A": "Euripides",
+        "B": "Aristophanes",
+        "C": "Aeschylus",
+        "D": "Sophocles"
+      },
+      "correctOption": "Aeschylus"
+    },
+    "3": {
+      "question": "Who directed the 2011 film J. Edgar based on the career of FBI director John Edgar Hoover?",
+      "options": {
+        "A": "Clint Eastwood",
+        "B": "Steven Spielberg",
+        "C": "Martin Scorsese",
+        "D": "Christopher Nolan"
+      },
+      "correctOption": "Clint Eastwood"
+    },
+    "4": {
+      "question": "Who is the Latin poet who wrote devotional poems to a woman named Lesbia in Sapphic meter?",
+      "options": {
+        "A": "Virgil",
+        "B": "Catullus",
+        "C": "Horace",
+        "D": "Ovid"
+      },
+      "correctOption": "Catullus"
+    },
+    "5": {
+      "question": "In Chaucer’s The Canterbury Tales, what does the word “mere” imply when describing the Pardoner?",
+      "options": {
+        "A": "Aggressive",
+        "B": "Masculine",
+        "C": "Effeminate",
+        "D": "Manipulative"
+      },
+      "correctOption": "Effeminate"
+    },
+    "6": {
+      "question": "In which year did Queen Elizabeth II grant Alan Turing a posthumous royal pardon?",
+      "options": {
+        "A": "2020",
+        "B": "2013",
+        "C": "2001",
+        "D": "1999"
+      },
+      "correctOption": "2013"
+    },
+    "7": {
+      "question": "Which American novelist, who is openly gay, won the 2018 Pulitzer Prize for fiction for his novel Less?",
+      "options": {
+        "A": "Jeffrey Eugenides",
+        "B": "James Baldwin",
+        "C": "Christopher Isherwood",
+        "D": "Andrew Sean Greer"
+      },
+      "correctOption": "Andrew Sean Greer"
+    },
+    "8": {
+      "question": "Which 20th century novel was the basis for the 2015 film Carol?",
+      "options": {
+        "A": "The Price of Salt (1952) by Patricia Highsmith",
+        "B": "The Well of Loneliness (1928) by Radclyffe Hall",
+        "C": "Oranges Are Not the Only Fruit (1985) by Jeanette Winterson",
+        "D": "The Color Purple (1982) by Alice Walker"
+      },
+      "correctOption": "The Price of Salt (1952) by Patricia Highsmith"
+    },
+    "9": {
+      "question": "In Shakespeare’s As You Like It, what name does Rosalind choose for her male disguise?",
+      "options": {
+        "A": "Ganymede",
+        "B": "Cesario",
+        "C": "Hermes",
+        "D": "Artemis"
+      },
+      "correctOption": "Ganymede"
+    },
+    "10": {
+      "question": "Which English painter described ‘the line of beauty’ in The Analysis of Beauty (1753)?",
+      "options": {
+        "A": "John Ruskin",
+        "B": "William Hogarth",
+        "C": "Inigo Jones",
+        "D": "Joshua Reynolds"
+      },
+      "correctOption": "William Hogarth"
+    }
+  }

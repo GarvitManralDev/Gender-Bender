@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Who among the following wrote the essay “One is Not Born a Woman”?",
+      "options": {
+        "A": "Luce Irigaray",
+        "B": "Judith Butler",
+        "C": "Monique Wittig",
+        "D": "Jacques Derrida"
+      },
+      "correctOption": "Monique Wittig"
+    },
+    "2": {
+      "question": "Who is the author of the essay “Womanliness as a Masquerade” (1929) referenced by Judith Butler?",
+      "options": {
+        "A": "Nancy Chodorow",
+        "B": "Toril Moi",
+        "C": "Joan Riviere",
+        "D": "Hanna Segal"
+      },
+      "correctOption": "Joan Riviere"
+    },
+    "3": {
+      "question": "Which feminist critic argued that women constitute a linguistic absence within a phallogocentric language?",
+      "options": {
+        "A": "Patricia Hill Collins",
+        "B": "Simone de Beauvoir",
+        "C": "Luce Irigaray",
+        "D": "Kimberley Crenshaw"
+      },
+      "correctOption": "Luce Irigaray"
+    },
+    "4": {
+      "question": "Who wrote Desire in Language (1969), proposing multiple meanings within the Symbolic?",
+      "options": {
+        "A": "Betty Friedan",
+        "B": "Elaine Showalter",
+        "C": "Julia Kristeva",
+        "D": "Gayatri Chakravarty Spivak"
+      },
+      "correctOption": "Julia Kristeva"
+    },
+    "5": {
+      "question": "Which 19th century intersex individual is referenced in Gender Trouble?",
+      "options": {
+        "A": "Herculine Barbin",
+        "B": "Karl Baer",
+        "C": "Lili Elbe",
+        "D": "Heinrich Ratjen"
+      },
+      "correctOption": "Herculine Barbin"
+    },
+    "6": {
+      "question": "Who is the author of My Antonia (1918)?",
+      "options": {
+        "A": "John Steinbeck",
+        "B": "J. D. Salinger",
+        "C": "Harper Lee",
+        "D": "Willa Cather"
+      },
+      "correctOption": "Willa Cather"
+    },
+    "7": {
+      "question": "What term did Louis Althusser use to describe how ideology shapes subject identity through 'hailing'?",
+      "options": {
+        "A": "Hegemony",
+        "B": "Subaltern",
+        "C": "Interpellation",
+        "D": "Masquerade"
+      },
+      "correctOption": "Interpellation"
+    },
+    "8": {
+      "question": "Judith Butler’s essay “Performative Acts and Gender Constitution” was published in which year?",
+      "options": {
+        "A": "1985",
+        "B": "1988",
+        "C": "1990",
+        "D": "1993"
+      },
+      "correctOption": "1988"
+    },
+    "9": {
+      "question": "The character Tommy Shirley’s real name in Tommy the Unsentimental is _______.",
+      "options": {
+        "A": "Antonia",
+        "B": "Jessica",
+        "C": "Theodosia",
+        "D": "Clare"
+      },
+      "correctOption": "Theodosia"
+    },
+    "10": {
+      "question": "Luce Irigaray’s Speculum of the Other Woman was published in which year?",
+      "options": {
+        "A": "1974",
+        "B": "1980",
+        "C": "1969",
+        "D": "1978"
+      },
+      "correctOption": "1974"
+    }
+  }

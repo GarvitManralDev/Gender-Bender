@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Emily Cox-Palmer-White links gender to which broader theoretical framework?",
+      "options": {
+        "A": "Existentialism",
+        "B": "Biopolitics",
+        "C": "Romanticism",
+        "D": "Linguistic determinism"
+      },
+      "correctOption": "Biopolitics"
+    },
+    "2": {
+      "question": "Which philosopher’s concept of the “paradigmatic system” does White adapt to analyze gender?",
+      "options": {
+        "A": "Jacques Derrida",
+        "B": "Giorgio Agamben",
+        "C": "Michel Foucault",
+        "D": "Jean Baudrillard"
+      },
+      "correctOption": "Giorgio Agamben"
+    },
+    "3": {
+      "question": "In feminist SF, monstrous, hybrid bodies often serve to:",
+      "options": {
+        "A": "Reaffirm essentialist gender categories",
+        "B": "Function as metaphors questioning power and normativity",
+        "C": "Represent technological failure",
+        "D": "Eliminate feminist politics entirely"
+      },
+      "correctOption": "Function as metaphors questioning power and normativity"
+    },
+    "4": {
+      "question": "Biopolitics, in relation to gender, describes:",
+      "options": {
+        "A": "How power manages bodies, reproduction, and identity",
+        "B": "A neutral scientific method",
+        "C": "A discussion unrelated to technology",
+        "D": "A metaphor used only in fiction"
+      },
+      "correctOption": "How power manages bodies, reproduction, and identity"
+    },
+    "5": {
+      "question": "Cybernetic identities challenge:",
+      "options": {
+        "A": "Neutrality and fixed bodily categories",
+        "B": "The possibility of identity",
+        "C": "All forms of feminist thinking",
+        "D": "Representational politics entirely"
+      },
+      "correctOption": "Neutrality and fixed bodily categories"
+    },
+    "6": {
+      "question": "Posthuman subjectivity is marked by:",
+      "options": {
+        "A": "A stable coherent self",
+        "B": "A fragmented identity shaped by networks and code",
+        "C": "A rejection of all embodiment",
+        "D": "A purely biological understanding of life"
+      },
+      "correctOption": "A fragmented identity shaped by networks and code"
+    },
+    "7": {
+      "question": "Posthuman feminist ethics emphasizes:",
+      "options": {
+        "A": "Only human-centered care",
+        "B": "Entanglements among humans, technology, and environments",
+        "C": "The separation of body and machine",
+        "D": "Neutrality in knowledge"
+      },
+      "correctOption": "Entanglements among humans, technology, and environments"
+    },
+    "8": {
+      "question": "Rosi Braidotti’s work argues identity is:",
+      "options": {
+        "A": "A fixed universal category",
+        "B": "Nomadic, relational, and becoming",
+        "C": "Removed from politics",
+        "D": "Determined solely by biology"
+      },
+      "correctOption": "Nomadic, relational, and becoming"
+    },
+    "9": {
+      "question": "The “future body” imagined in feminist technoculture is:",
+      "options": {
+        "A": "Passive and neutral",
+        "B": "Hybrid, relational, and still politically contested",
+        "C": "Free of discourse",
+        "D": "Technologically identical everywhere"
+      },
+      "correctOption": "Hybrid, relational, and still politically contested"
+    },
+    "10": {
+      "question": "Critical engagement with technology requires:",
+      "options": {
+        "A": "Blind adoption of innovation",
+        "B": "Ignoring history and politics",
+        "C": "Reflexivity and accountability",
+        "D": "Reduction of ethics"
+      },
+      "correctOption": "Reflexivity and accountability"
+    }
+  }

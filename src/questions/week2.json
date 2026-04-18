@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Who coined the term \"Womanism\" to refer to \"African-American feminism or the feminism of women of color\"?",
+      "options": {
+        "A": "Laura Gilman",
+        "B": "Alice Walker",
+        "C": "Ula Y. Taylor",
+        "D": "Hudson-Weems"
+      },
+      "correctOption": "Alice Walker"
+    },
+    "2": {
+      "question": "Maria Stewart, in her speeches, compared African women to:",
+      "options": {
+        "A": "Queen Cleopatra",
+        "B": "King Solomon’s temple builders",
+        "C": "The women of Troy",
+        "D": "The Virgin Mary"
+      },
+      "correctOption": "King Solomon’s temple builders"
+    },
+    "3": {
+      "question": "Which of the following is not a Slave Narrative?",
+      "options": {
+        "A": "Interesting Narrative of the Life of Olaudah Equiano (1789)",
+        "B": "The Narrative of the Life of Frederick Douglass (1845)",
+        "C": "Incidents in the Life of a Slave Girl (1861)",
+        "D": "The Picture of Dorian Grey (1891)"
+      },
+      "correctOption": "The Picture of Dorian Grey (1891)"
+    },
+    "4": {
+      "question": "Who among the following defined Feminism as a \"movement to end sexism, sexist exploitation, and oppression\"?",
+      "options": {
+        "A": "Susan Leigh Star",
+        "B": "Teresa de Lauretis",
+        "C": "bell hooks",
+        "D": "Betty Friedan"
+      },
+      "correctOption": "bell hooks"
+    },
+    "5": {
+      "question": "Which of the following stereotypical figures presents Black women as obedient and faithful domestic servants who care for white children and family better than her own?",
+      "options": {
+        "A": "The mammy",
+        "B": "The Black matriarch",
+        "C": "The welfare mother",
+        "D": "The welfare queen"
+      },
+      "correctOption": "The mammy"
+    },
+    "6": {
+      "question": "Which of the following books is not written by bell hooks?",
+      "options": {
+        "A": "The Black Unicorn (1978)",
+        "B": "Talking Back: Thinking Feminist, Thinking Black (1989)",
+        "C": "Sisters Of The Yam: Black Women and Self-recovery (1993)",
+        "D": "Feminism is for Everybody (2000)"
+      },
+      "correctOption": "The Black Unicorn (1978)"
+    },
+    "7": {
+      "question": "Which among the following is the stereotypical image linked to the working-class Black women’s increasing access to the US welfare state entitlements?",
+      "options": {
+        "A": "The mammy",
+        "B": "The Black matriarch",
+        "C": "The welfare mother",
+        "D": "The Black Lady"
+      },
+      "correctOption": "The welfare mother"
+    },
+    "8": {
+      "question": "Which among the following are the characteristics of Intersectionality?",
+      "options": {
+        "A": "Intersectionality is a framework for conceptualizing a person or group affected by multiple discriminations",
+        "B": "People are disadvantaged by multiple sources of oppression like race, class, gender, etc.",
+        "C": "Both (A) and (B)",
+        "D": "Only (A)"
+      },
+      "correctOption": "Both (A) and (B)"
+    },
+    "9": {
+      "question": "The film Madea’s Big Happy Family (2011) perpetuates which controlling stereotype?",
+      "options": {
+        "A": "The jezebel",
+        "B": "The welfare mother",
+        "C": "The Black matriarch",
+        "D": "The Black lady"
+      },
+      "correctOption": "The Black matriarch"
+    },
+    "10": {
+      "question": "Who said, “Black feminism is not a white feminism in blackface”?",
+      "options": {
+        "A": "Alice Walker",
+        "B": "Audre Lorde",
+        "C": "Toni Morrison",
+        "D": "Ula Taylor"
+      },
+      "correctOption": "Audre Lorde"
+    }
+  }

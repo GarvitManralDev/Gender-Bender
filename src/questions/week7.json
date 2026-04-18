@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "What is Louis Althusser’s concept of “interpellation” also known as?",
+      "options": {
+        "A": "Translation",
+        "B": "Hailing",
+        "C": "Perception",
+        "D": "Reconstruction"
+      },
+      "correctOption": "Hailing"
+    },
+    "2": {
+      "question": "Which U.S. military policy does Butler critique as restricting homosexual identity expression?",
+      "options": {
+        "A": "Protect and Serve",
+        "B": "Don’t Ask, Don’t Tell",
+        "C": "Free Speech Act",
+        "D": "Civil Equality Act"
+      },
+      "correctOption": "Don’t Ask, Don’t Tell"
+    },
+    "3": {
+      "question": "What central issue does Judith Butler explore in the essay “Gender in Translation”?",
+      "options": {
+        "A": "The biological basis of sex",
+        "B": "The role of capitalism in gender formation",
+        "C": "The challenges of translating the term “gender” across languages",
+        "D": "The decline of feminist movements"
+      },
+      "correctOption": "The challenges of translating the term “gender” across languages"
+    },
+    "4": {
+      "question": "Which philosopher discussed “monolingual obstinacy,” a concept Butler draws on?",
+      "options": {
+        "A": "Michel Foucault",
+        "B": "Simone de Beauvoir",
+        "C": "Jacques Derrida",
+        "D": "John Money"
+      },
+      "correctOption": "Jacques Derrida"
+    },
+    "5": {
+      "question": "According to Butler, sexuality and gender should be understood as:",
+      "options": {
+        "A": "Naturally linked and inseparable",
+        "B": "Determined entirely by biology",
+        "C": "Independent categories that do not automatically correspond",
+        "D": "Defined by medical institutions only"
+      },
+      "correctOption": "Independent categories that do not automatically correspond"
+    },
+    "6": {
+      "question": "Why do some LGBTQ+ advocates want to retain the diagnosis of Gender Identity Disorder (GID) in the DSM?",
+      "options": {
+        "A": "Because it ensures gender binaries are medically enforced",
+        "B": "Because it allows insurance access for transitioning-related treatments",
+        "C": "Because they believe gender variance is a mental illness",
+        "D": "Because it removes stigma around intersex identities"
+      },
+      "correctOption": "Because it allows insurance access for transitioning-related treatments"
+    },
+    "7": {
+      "question": "According to Butler’s discussion of Jessica Benjamin’s work, what is central to the psychoanalytic idea of relationality?",
+      "options": {
+        "A": "Recognition between self and other",
+        "B": "Biological determinism",
+        "C": "State-approved gender norms",
+        "D": "Complete erasure of identity"
+      },
+      "correctOption": "Recognition between self and other"
+    },
+    "8": {
+      "question": "What does Butler argue about the incest taboo and kinship?",
+      "options": {
+        "A": "It strengthens diverse family structures",
+        "B": "It supports equality between heterosexual and queer kinship forms",
+        "C": "It reinforces heterosexual norms and delegitimizes alternative kinship models",
+        "D": "It is irrelevant to gender studies"
+      },
+      "correctOption": "It reinforces heterosexual norms and delegitimizes alternative kinship models"
+    },
+    "9": {
+      "question": "Nancy Fraser's critique engages Butler through which primary concept derived from Hegel?",
+      "options": {
+        "A": "Psychoanalytic sexuality",
+        "B": "Recognition",
+        "C": "Subjective autonomy",
+        "D": "Market utility"
+      },
+      "correctOption": "Recognition"
+    },
+    "10": {
+      "question": "Butler integrates Homi K. Bhabha’s idea of cultural translation to argue that:",
+      "options": {
+        "A": "The universal must be understood through multiple cultural versions rather than a single fixed form",
+        "B": "Universal rights already apply equally to all gender identities",
+        "C": "Translation eliminates cultural difference",
+        "D": "Minority cultures must assimilate to dominant norms"
+      },
+      "correctOption": "The universal must be understood through multiple cultural versions rather than a single fixed form"
+    }
+  }

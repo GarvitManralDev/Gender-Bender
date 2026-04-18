@@ -1,0 +1,102 @@
+{
+    "1": {
+      "question": "Which theorist is associated with the concept of the cyborg in feminist posthumanism?",
+      "options": {
+        "A": "Judith Butler",
+        "B": "Donna Haraway",
+        "C": "Gayatri Spivak",
+        "D": "Audre Lorde"
+      },
+      "correctOption": "Donna Haraway"
+    },
+    "2": {
+      "question": "Ihab Hassan's 1977 work is significant because it:",
+      "options": {
+        "A": "Rejects technology",
+        "B": "Announces a posthumanist cultural shift",
+        "C": "Reinforces classical humanities",
+        "D": "Focuses only on gender"
+      },
+      "correctOption": "Announces a posthumanist cultural shift"
+    },
+    "3": {
+      "question": "Haraway’s cyborg challenges which traditional binary?",
+      "options": {
+        "A": "Past vs future",
+        "B": "Human vs machine",
+        "C": "Nature vs evolution",
+        "D": "Emotion vs logic"
+      },
+      "correctOption": "Human vs machine"
+    },
+    "4": {
+      "question": "The cyborg represents:",
+      "options": {
+        "A": "A world free of technological influence",
+        "B": "A post-gender figuration",
+        "C": "A return to traditional identity",
+        "D": "A rejection of feminist politics"
+      },
+      "correctOption": "A post-gender figuration"
+    },
+    "5": {
+      "question": "Ava in Ex Machina is primarily analyzed as:",
+      "options": {
+        "A": "A purely mechanical invention",
+        "B": "A cyborg/gynoid with consciousness",
+        "C": "A human disguised as machine",
+        "D": "A villain with no agency"
+      },
+      "correctOption": "A cyborg/gynoid with consciousness"
+    },
+    "6": {
+      "question": "Nathan’s role in Ava’s creation symbolizes:",
+      "options": {
+        "A": "Equal partnership",
+        "B": "Toxic masculine control",
+        "C": "Post-gender equilibrium",
+        "D": "Democratic engineering"
+      },
+      "correctOption": "Toxic masculine control"
+    },
+    "7": {
+      "question": "Braidotti critiques which long-standing framework?",
+      "options": {
+        "A": "Anthropocentric humanism",
+        "B": "Ecocriticism",
+        "C": "Structural linguistics",
+        "D": "Marxist economics"
+      },
+      "correctOption": "Anthropocentric humanism"
+    },
+    "8": {
+      "question": "The nomadic subject emphasizes:",
+      "options": {
+        "A": "Fixed identity",
+        "B": "Fluid, relational identity",
+        "C": "Religious unity",
+        "D": "Pure biological ancestry"
+      },
+      "correctOption": "Fluid, relational identity"
+    },
+    "9": {
+      "question": "Which form of violence significantly increased during lockdowns?",
+      "options": {
+        "A": "Sports-based violence",
+        "B": "Animal cruelty",
+        "C": "Climate-related conflict",
+        "D": "Domestic and gender-based violence"
+      },
+      "correctOption": "Domestic and gender-based violence"
+    },
+    "10": {
+      "question": "Reid and Ritholtz argue LGBTQ+ individuals were treated as:",
+      "options": {
+        "A": "Protected citizens",
+        "B": "Technological threats",
+        "C": "A disposable category",
+        "D": "Political leaders"
+      },
+      "correctOption": "A disposable category"
+    }
+  }
