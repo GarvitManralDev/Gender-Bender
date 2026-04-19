@@ -1,82 +1,102 @@
-[
-    {
-      "question": "In a two-way ANOVA, if SSA = 180, SSB = 120, SSAB = 60, then SSE equals:",
-      "options": ["300.0", "360.0", "420.0", "Cannot be determined"],
-      "correct_answer": "Cannot be determined"
+{
+    "1": {
+        "question": "In a two-way ANOVA, if SSA = 180, SSB = 120, SSAB = 60, then SSE equals:",
+        "options": {
+            "A": "300.0",
+            "B": "360.0",
+            "C": "420.0",
+            "D": "Cannot be determined"
+        },
+        "correctOption": "Cannot be determined"
     },
-    {
-      "question": "Which of the following designs is the only design capable of detecting interaction effects?",
-      "options": ["One-way ANOVA", "Randomized block design", "Factorial design", "Paired t-test"],
-      "correct_answer": "Factorial design"
+    "2": {
+        "question": "Which of the following designs is the only design capable of detecting interaction effects?",
+        "options": {
+            "A": "One-way ANOVA",
+            "B": "Randomized block design",
+            "C": "Factorial design",
+            "D": "Paired t-test"
+        },
+        "correctOption": "Factorial design"
     },
-    {
-      "question": "In Randomized Block Design (RBD), each treatment appears:",
-      "options": [
-        "Once in each block",
-        "Randomly multiple times",
-        "In only one block",
-        "Only in selected blocks"
-      ],
-      "correct_answer": "Once in each block"
+    "3": {
+        "question": "In Randomized Block Design (RBD), each treatment appears:",
+        "options": {
+            "A": "Once in each block",
+            "B": "Randomly multiple times",
+            "C": "In only one block",
+            "D": "Only in selected blocks"
+        },
+        "correctOption": "Once in each block"
     },
-    {
-      "question": "In a regression: SSR = 200, SSE = 60, number of independent variables = 5, total observations = 16. What is the F-statistic?",
-      "options": ["3.33", "4.25", "5.56", "6.67"],
-      "correct_answer": "6.67"
+    "4": {
+        "question": "In a regression: SSR = 200, SSE = 60, number of independent variables = 5, total observations = 16. What is the F-statistic?",
+        "options": {
+            "A": "3.33",
+            "B": "4.25",
+            "C": "5.56",
+            "D": "6.67"
+        },
+        "correctOption": "6.67"
     },
-    {
-      "question": "Least squares method minimizes:",
-      "options": ["Σ|residuals|", "Σ(residuals)", "Σ(residuals²)", "Σ(y²)"],
-      "correct_answer": "Σ(residuals²)"
+    "5": {
+        "question": "Least squares method minimizes:",
+        "options": {
+            "A": "Σ|residuals|",
+            "B": "Σ(residuals)",
+            "C": "Σ(residuals²)",
+            "D": "Σ(y²)"
+        },
+        "correctOption": "Σ(residuals²)"
     },
-    {
-      "question": "A general linear model can include transformed predictors (z₁, z₂, ...). These represent:",
-      "options": [
-        "Only interaction terms",
-        "Only polynomial terms",
-        "Any function of original predictors",
-        "Dummy variables only"
-      ],
-      "correct_answer": "Any function of original predictors"
+    "6": {
+        "question": "A general linear model can include transformed predictors (z₁, z₂, ...). These represent:",
+        "options": {
+            "A": "Only interaction terms",
+            "B": "Only polynomial terms",
+            "C": "Any function of original predictors",
+            "D": "Dummy variables only"
+        },
+        "correctOption": "Any function of original predictors"
     },
-    {
-      "question": "In Randomized Block Design (RBD), the purpose of blocking is to:",
-      "options": [
-        "Increase within-group variation",
-        "Remove nuisance variation",
-        "Increase error variance",
-        "Increase Type II error"
-      ],
-      "correct_answer": "Remove nuisance variation"
+    "7": {
+        "question": "In Randomized Block Design (RBD), the purpose of blocking is to:",
+        "options": {
+            "A": "Increase within-group variation",
+            "B": "Remove nuisance variation",
+            "C": "Increase error variance",
+            "D": "Increase Type II error"
+        },
+        "correctOption": "Remove nuisance variation"
     },
-    {
-      "question": "In simple linear regression, the coefficient b (slope) represents:",
-      "options": [
-        "Average value of Y",
-        "Change in Y for a one-unit change in X",
-        "Change in X for a one-unit change in Y",
-        "Total variation in data"
-      ],
-      "correct_answer": "Change in Y for a one-unit change in X"
+    "8": {
+        "question": "In simple linear regression, the coefficient b (slope) represents:",
+        "options": {
+            "A": "Average value of Y",
+            "B": "Change in Y for a one-unit change in X",
+            "C": "Change in X for a one-unit change in Y",
+            "D": "Total variation in data"
+        },
+        "correctOption": "Change in Y for a one-unit change in X"
     },
-    {
-      "question": "What is the purpose of the command: tbl = pd.read_excel(\"C:/Users/Somi/Documents/regr.xlsx\")?",
-      "options": [
-        "To read an Excel dataset into a pandas DataFrame",
-        "To create a new Excel file",
-        "To export regression results to Excel",
-        "To convert a DataFrame into a NumPy array"
-      ],
-      "correct_answer": "To read an Excel dataset into a pandas DataFrame"
+    "9": {
+        "question": "What is the purpose of the command: tbl = pd.read_excel(\"C:/Users/Somi/Documents/regr.xlsx\")?",
+        "options": {
+            "A": "To read an Excel dataset into a pandas DataFrame",
+            "B": "To create a new Excel file",
+            "C": "To export regression results to Excel",
+            "D": "To convert a DataFrame into a NumPy array"
+        },
+        "correctOption": "To read an Excel dataset into a pandas DataFrame"
     },
-    {
-      "question": "If the 95% confidence interval for β1 does not include 0, then:",
-      "options": [
-        "Model is incorrect",
-        "Residuals are normal",
-        "Slope is statistically significant",
-        "Intercept is zero"
-      ],
-      "correct_answer": "Slope is statistically significant"
+    "10": {
+        "question": "If the 95% confidence interval for β1 does not include 0, then:",
+        "options": {
+            "A": "Model is incorrect",
+            "B": "Residuals are normal",
+            "C": "Slope is statistically significant",
+            "D": "Intercept is zero"
+        },
+        "correctOption": "Slope is statistically significant"
     }
-  ]
+}

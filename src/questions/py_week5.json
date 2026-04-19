@@ -1,67 +1,102 @@
-[
-    {
-      "question": "In testing H₀: μ = 20 vs H₁: μ > 20 with α = 0.05, the rejection region for a Z test is:",
-      "options": ["Z < -1.96", "Z > 1.645", "|Z| > 1.96", "Z < -1.645"],
-      "correct_answer": "Z > 1.645"
+{
+    "1": {
+        "question": "In testing H₀: μ = 20 vs H₁: μ > 20 with α = 0.05, the rejection region for a Z test is:",
+        "options": {
+            "A": "Z < -1.96",
+            "B": "Z > 1.645",
+            "C": "|Z| > 1.96",
+            "D": "Z < -1.645"
+        },
+        "correctOption": "Z > 1.645"
     },
-    {
-      "question": "Given s₁² = 16, n₁ = 10, s₂² = 25, n₂ = 15. Degrees of freedom (approx.) is closest to:",
-      "options": ["18.0", "20.0", "22.0", "24.0"],
-      "correct_answer": "22.0"
+    "2": {
+        "question": "Given s₁² = 16, n₁ = 10, s₂² = 25, n₂ = 15. Degrees of freedom (approx.) is closest to:",
+        "options": {
+            "A": "18.0",
+            "B": "20.0",
+            "C": "22.0",
+            "D": "24.0"
+        },
+        "correctOption": "22.0"
     },
-    {
-      "question": "Given n = 36, sample mean = 34.6, σ = 12. Test H₀: μ ≤ 30 vs H₁: μ > 30 at 95% confidence. The null hypothesis should:",
-      "options": ["not be rejected", "be rejected", "Not enough information", "None of these"],
-      "correct_answer": "be rejected"
+    "3": {
+        "question": "Given n = 36, sample mean = 34.6, σ = 12. Test H₀: μ ≤ 30 vs H₁: μ > 30 at 95% confidence. The null hypothesis should:",
+        "options": {
+            "A": "not be rejected",
+            "B": "be rejected",
+            "C": "Not enough information",
+            "D": "None of these"
+        },
+        "correctOption": "be rejected"
     },
-    {
-      "question": "Which test is appropriate when σ is unknown, n = 45, and population is normal?",
-      "options": [
-        "Z-test using σ (Population Standard Deviation)",
-        "Z-test using s (Sample Standard Deviation)",
-        "t-test",
-        "F-test"
-      ],
-      "correct_answer": "Z-test using s (Sample Standard Deviation)"
+    "4": {
+        "question": "Which test is appropriate when σ is unknown, n = 45, and population is normal?",
+        "options": {
+            "A": "Z-test using σ (Population Standard Deviation)",
+            "B": "Z-test using s (Sample Standard Deviation)",
+            "C": "t-test",
+            "D": "F-test"
+        },
+        "correctOption": "Z-test using s (Sample Standard Deviation)"
     },
-    {
-      "question": "ANOVA is preferred over multiple t-tests because it:",
-      "options": [
-        "Reduces Type II error",
-        "Eliminates assumptions",
-        "Controls family-wise Type I error",
-        "Works only for large samples"
-      ],
-      "correct_answer": "Controls family-wise Type I error"
+    "5": {
+        "question": "ANOVA is preferred over multiple t-tests because it:",
+        "options": {
+            "A": "Reduces Type II error",
+            "B": "Eliminates assumptions",
+            "C": "Controls family-wise Type I error",
+            "D": "Works only for large samples"
+        },
+        "correctOption": "Controls family-wise Type I error"
     },
-    {
-      "question": "In ANOVA, if treatment means are far apart relative to within-group variability, the F value will be:",
-      "options": ["Close to 0", "Close to 1", "Large", "Negative"],
-      "correct_answer": "Large"
+    "6": {
+        "question": "In ANOVA, if treatment means are far apart relative to within-group variability, the F value will be:",
+        "options": {
+            "A": "Close to 0",
+            "B": "Close to 1",
+            "C": "Large",
+            "D": "Negative"
+        },
+        "correctOption": "Large"
     },
-    {
-      "question": "If Tukey’s HSD critical difference = 3.5, then two means of 18 and 14 are:",
-      "options": [
-        "Not significantly different",
-        "Significantly different",
-        "Need LSD test",
-        "Require larger sample"
-      ],
-      "correct_answer": "Significantly different"
+    "7": {
+        "question": "If Tukey’s HSD critical difference = 3.5, then two means of 18 and 14 are:",
+        "options": {
+            "A": "Not significantly different",
+            "B": "Significantly different",
+            "C": "Need LSD test",
+            "D": "Require larger sample"
+        },
+        "correctOption": "Significantly different"
     },
-    {
-      "question": "The number of treatments is 4. Given SS (Treatments) = 240. Find the Mean Square Due to Treatments:",
-      "options": ["60.0", "80.0", "120.0", "240.0"],
-      "correct_answer": "80.0"
+    "8": {
+        "question": "The number of treatments is 4. Given SS (Treatments) = 240. Find the Mean Square Due to Treatments:",
+        "options": {
+            "A": "60.0",
+            "B": "80.0",
+            "C": "120.0",
+            "D": "240.0"
+        },
+        "correctOption": "80.0"
     },
-    {
-      "question": "For the given ANOVA table, the total degrees of freedom is:",
-      "options": ["12.0", "16.0", "15.0", "360.0"],
-      "correct_answer": "15.0"
+    "9": {
+        "question": "For the given ANOVA table, the total degrees of freedom is:",
+        "options": {
+            "A": "12.0",
+            "B": "16.0",
+            "C": "15.0",
+            "D": "360.0"
+        },
+        "correctOption": "15.0"
     },
-    {
-      "question": "For the data in question 8, the calculated F-statistic is:",
-      "options": ["4.0", "6.0", "8.0", "12.0"],
-      "correct_answer": "8.0"
+    "10": {
+        "question": "For the data in question 8, the calculated F-statistic is:",
+        "options": {
+            "A": "4.0",
+            "B": "6.0",
+            "C": "8.0",
+            "D": "12.0"
+        },
+        "correctOption": "8.0"
     }
-  ]
+}

@@ -1,52 +1,102 @@
-[
-    {
-      "question": "Which distribution is most appropriate for rare events occurring over a fixed interval?",
-      "options": ["Binomial", "Normal", "Poisson", "Uniform"],
-      "correct_answer": "Poisson"
+{
+    "1": {
+        "question": "Which distribution is most appropriate for rare events occurring over a fixed interval?",
+        "options": {
+            "A": "Binomial",
+            "B": "Normal",
+            "C": "Poisson",
+            "D": "Uniform"
+        },
+        "correctOption": "Poisson"
     },
-    {
-      "question": "A fair coin is tossed twice. What is the probability of getting exactly one head?",
-      "options": ["0.25", "0.5", "0.75", "1.0"],
-      "correct_answer": "0.5"
+    "2": {
+        "question": "A fair coin is tossed twice. What is the probability of getting exactly one head?",
+        "options": {
+            "A": "0.25",
+            "B": "0.5",
+            "C": "0.75",
+            "D": "1.0"
+        },
+        "correctOption": "0.5"
     },
-    {
-      "question": "Which distribution is commonly used to model the time between events in a Poisson process?",
-      "options": ["Binomial distribution", "Exponential distribution", "Uniform distribution", "Chi-square distribution"],
-      "correct_answer": "Exponential distribution"
+    "3": {
+        "question": "Which distribution is commonly used to model the time between events in a Poisson process?",
+        "options": {
+            "A": "Binomial distribution",
+            "B": "Exponential distribution",
+            "C": "Uniform distribution",
+            "D": "Chi-square distribution"
+        },
+        "correctOption": "Exponential distribution"
     },
-    {
-      "question": "Which of the following is a discrete probability distribution?",
-      "options": ["Normal distribution", "Poisson distribution", "Exponential distribution", "Gamma distribution"],
-      "correct_answer": "Poisson distribution"
+    "4": {
+        "question": "Which of the following is a discrete probability distribution?",
+        "options": {
+            "A": "Normal distribution",
+            "B": "Poisson distribution",
+            "C": "Exponential distribution",
+            "D": "Gamma distribution"
+        },
+        "correctOption": "Poisson distribution"
     },
-    {
-      "question": "If a binomial distribution has n = 10 and p = 0.4, what is the mean?",
-      "options": ["2.0", "4.0", "6.0", "10.0"],
-      "correct_answer": "4.0"
+    "5": {
+        "question": "If a binomial distribution has n = 10 and p = 0.4, what is the mean?",
+        "options": {
+            "A": "2.0",
+            "B": "4.0",
+            "C": "6.0",
+            "D": "10.0"
+        },
+        "correctOption": "4.0"
     },
-    {
-      "question": "In a hypergeometric distribution, sampling is done:",
-      "options": ["Without replacement", "With replacement", "With constant probability", "From infinite population"],
-      "correct_answer": "Without replacement"
+    "6": {
+        "question": "In a hypergeometric distribution, sampling is done:",
+        "options": {
+            "A": "Without replacement",
+            "B": "With replacement",
+            "C": "With constant probability",
+            "D": "From infinite population"
+        },
+        "correctOption": "Without replacement"
     },
-    {
-      "question": "What will be the output of the following code: from scipy.stats import poisson; print(poisson.var(4))?",
-      "options": ["2.0", "4.0", "8.0", "16.0"],
-      "correct_answer": "4.0"
+    "7": {
+        "question": "What will be the output of the following code: from scipy.stats import poisson; print(poisson.var(4))?",
+        "options": {
+            "A": "2.0",
+            "B": "4.0",
+            "C": "8.0",
+            "D": "16.0"
+        },
+        "correctOption": "4.0"
     },
-    {
-      "question": "The mean and variance of a Poisson distribution are:",
-      "options": ["μ and μ²", "√λ and λ", "λ and √λ", "λ and λ"],
-      "correct_answer": "λ and λ"
+    "8": {
+        "question": "The mean and variance of a Poisson distribution are:",
+        "options": {
+            "A": "μ and μ²",
+            "B": "√λ and λ",
+            "C": "λ and √λ",
+            "D": "λ and λ"
+        },
+        "correctOption": "λ and λ"
     },
-    {
-      "question": "Consider the following Python code: from scipy.stats import norm; print(norm.pdf(0)). What will be the output?",
-      "options": ["0.0", "0.25", "0.399", "1.0"],
-      "correct_answer": "0.399"
+    "9": {
+        "question": "Consider the following Python code: from scipy.stats import norm; print(norm.pdf(0)). What will be the output?",
+        "options": {
+            "A": "0.0",
+            "B": "0.25",
+            "C": "0.399",
+            "D": "1.0"
+        },
+        "correctOption": "0.399"
     },
-    {
-      "question": "Consider the following Python code: import scipy.stats as stats; print(round(stats.norm.cdf(0),2)). What will be the output?",
-      "options": ["0.0", "0.25", "0.5", "1.0"],
-      "correct_answer": "0.5"
+    "10": {
+        "question": "Consider the following Python code: import scipy.stats as stats; print(round(stats.norm.cdf(0),2)). What will be the output?",
+        "options": {
+            "A": "0.0",
+            "B": "0.25",
+            "C": "0.5",
+            "D": "1.0"
+        },
+        "correctOption": "0.5"
     }
-  ]
+}

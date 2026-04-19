@@ -1,57 +1,102 @@
-[
-    {
-      "question": "Given: x̄ = 32, μ₀ = 30, σ = 10, n = 30, α = 0.05. Test: H₀: μ ≤ 30 vs H₁: μ > 30. The calculated z-value is closest to:",
-      "options": ["0.87", "1.09", "1.64", "2.05"],
-      "correct_answer": "1.09"
+{
+    "1": {
+        "question": "Given: x̄ = 32, μ₀ = 30, σ = 10, n = 30, α = 0.05. Test: H₀: μ ≤ 30 vs H₁: μ > 30. The calculated z-value is closest to:",
+        "options": {
+            "A": "0.87",
+            "B": "1.09",
+            "C": "1.64",
+            "D": "2.05"
+        },
+        "correctOption": "1.09"
     },
-    {
-      "question": "For a one-tailed test at α = 0.05, if p-value = 0.137, the correct decision is:",
-      "options": ["Reject H₀", "Accept H₀", "Do not reject H₀", "Insufficient data"],
-      "correct_answer": "Do not reject H₀"
+    "2": {
+        "question": "For a one-tailed test at α = 0.05, if p-value = 0.137, the correct decision is:",
+        "options": {
+            "A": "Reject H₀",
+            "B": "Accept H₀",
+            "C": "Do not reject H₀",
+            "D": "Insufficient data"
+        },
+        "correctOption": "Do not reject H₀"
     },
-    {
-      "question": "Rejecting a true null hypothesis is called:",
-      "options": ["Type II error", "Power of the test", "Type I error", "Sampling error"],
-      "correct_answer": "Type I error"
+    "3": {
+        "question": "Rejecting a true null hypothesis is called:",
+        "options": {
+            "A": "Type II error",
+            "B": "Power of the test",
+            "C": "Type I error",
+            "D": "Sampling error"
+        },
+        "correctOption": "Type I error"
     },
-    {
-      "question": "If the sample size is fixed and α is decreased, then β will:",
-      "options": ["Decrease", "Increase", "Remain unchanged", "Become zero"],
-      "correct_answer": "Increase"
+    "4": {
+        "question": "If the sample size is fixed and α is decreased, then β will:",
+        "options": {
+            "A": "Decrease",
+            "B": "Increase",
+            "C": "Remain unchanged",
+            "D": "Become zero"
+        },
+        "correctOption": "Increase"
     },
-    {
-      "question": "A sample of 120 accidents shows 67 due to drunk driving. Test H₀: p = 0.5 vs H₁: p ≠ 0.5. The test statistic z is closest to:",
-      "options": ["0.98", "1.15", "1.28", "1.64"],
-      "correct_answer": "1.28"
+    "5": {
+        "question": "A sample of 120 accidents shows 67 due to drunk driving. Test H₀: p = 0.5 vs H₁: p ≠ 0.5. The test statistic z is closest to:",
+        "options": {
+            "A": "0.98",
+            "B": "1.15",
+            "C": "1.28",
+            "D": "1.64"
+        },
+        "correctOption": "1.28"
     },
-    {
-      "question": "If in a z test, the p-value = 0.2006 and α = 0.05, the decision is:",
-      "options": ["Reject H₀", "Not enough evidences", "Do not reject H₀", "Increase sample size"],
-      "correct_answer": "Do not reject H₀"
+    "6": {
+        "question": "If in a z test, the p-value = 0.2006 and α = 0.05, the decision is:",
+        "options": {
+            "A": "Reject H₀",
+            "B": "Not enough evidences",
+            "C": "Do not reject H₀",
+            "D": "Increase sample size"
+        },
+        "correctOption": "Do not reject H₀"
     },
-    {
-      "question": "If σ₁² and σ₂² are known, the appropriate test statistic for μ₁ − μ₂ is:",
-      "options": ["t statistic", "χ² statistic", "z statistic", "F statistic"],
-      "correct_answer": "z statistic"
+    "7": {
+        "question": "If σ₁² and σ₂² are known, the appropriate test statistic for μ₁ − μ₂ is:",
+        "options": {
+            "A": "t statistic",
+            "B": "χ² statistic",
+            "C": "z statistic",
+            "D": "F statistic"
+        },
+        "correctOption": "z statistic"
     },
-    {
-      "question": "Which hypothesis must always contain equality?",
-      "options": ["Alternative hypothesis", "Research hypothesis", "Null hypothesis", "Working hypothesis"],
-      "correct_answer": "Null hypothesis"
+    "8": {
+        "question": "Which hypothesis must always contain equality?",
+        "options": {
+            "A": "Alternative hypothesis",
+            "B": "Research hypothesis",
+            "C": "Null hypothesis",
+            "D": "Working hypothesis"
+        },
+        "correctOption": "Null hypothesis"
     },
-    {
-      "question": "Which action reduces both Type I and Type II errors simultaneously?",
-      "options": ["Increasing α", "Decreasing α", "Increasing sample size", "Changing tail of test"],
-      "correct_answer": "Increasing sample size"
+    "9": {
+        "question": "Which action reduces both Type I and Type II errors simultaneously?",
+        "options": {
+            "A": "Increasing α",
+            "B": "Decreasing α",
+            "C": "Increasing sample size",
+            "D": "Changing tail of test"
+        },
+        "correctOption": "Increasing sample size"
     },
-    {
-      "question": "In the past, 60% of the tourists who visited Delhi went to see Agra City. The management wants to check if this proportion increased. The correct hypotheses are:",
-      "options": [
-        "H₀: P > 0.60, Hₐ: P ≤ 0.60",
-        "H₀: P < 0.45, Hₐ: P ≥ 0.45",
-        "H₀: P ≥ 0.45, Hₐ: P < 0.45",
-        "H₀: P ≤ 0.60, Hₐ: P > 0.60"
-      ],
-      "correct_answer": "H₀: P ≤ 0.60, Hₐ: P > 0.60"
+    "10": {
+        "question": "In the past, 60% of the tourists who visited Delhi went to see Agra City. The management wants to check if this proportion increased. The correct hypotheses are:",
+        "options": {
+            "A": "H₀: P > 0.60, Hₐ: P ≤ 0.60",
+            "B": "H₀: P < 0.45, Hₐ: P ≥ 0.45",
+            "C": "H₀: P ≥ 0.45, Hₐ: P < 0.45",
+            "D": "H₀: P ≤ 0.60, Hₐ: P > 0.60"
+        },
+        "correctOption": "H₀: P ≤ 0.60, Hₐ: P > 0.60"
     }
-  ]
+}
