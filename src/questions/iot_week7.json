@@ -1,0 +1,167 @@
+{
+    "1": {
+      "question": "What does LPWAN stand for?",
+      "options": {
+        "A": "Low Power Wireless Access Network",
+        "B": "Long Power Wide Area Network",
+        "C": "Low Power Wide Area Network",
+        "D": "Long Power Wireless Area Network"
+      },
+      "correctOption": "Low Power Wide Area Network",
+      "explanation": "LPWAN stands for Low Power Wide Area Network."
+    },
+    "2": {
+      "question": "LoRa technology operates in which frequency bands?",
+      "options": {
+        "A": "License-free sub-gigahertz bands",
+        "B": "Licensed microwave bands",
+        "C": "Optical frequency bands",
+        "D": "Millimeter-wave bands"
+      },
+      "correctOption": "License-free sub-gigahertz bands",
+      "explanation": "LoRa operates in license-free sub-gigahertz frequency bands."
+    },
+    "3": {
+      "question": "What is the maximum wireless throughput achieved by SIGFOX?",
+      "options": {
+        "A": "1 kbps",
+        "B": "500 bps",
+        "C": "10 kbps",
+        "D": "100 bps"
+      },
+      "correctOption": "100 bps",
+      "explanation": "SIGFOX supports up to 100 bits per second throughput."
+    },
+    "4": {
+      "question": "Which IEEE standard forms the basis of Zigbee physical and MAC layers?",
+      "options": {
+        "A": "IEEE 802.11",
+        "B": "IEEE 802.3",
+        "C": "IEEE 802.15.4",
+        "D": "IEEE 802.16"
+      },
+      "correctOption": "IEEE 802.15.4",
+      "explanation": "Zigbee is based on IEEE 802.15.4."
+    },
+    "5": {
+      "question": "Which is NOT a Zigbee-supported topology?",
+      "options": {
+        "A": "Star",
+        "B": "Tree",
+        "C": "Mesh",
+        "D": "Ring"
+      },
+      "correctOption": "Ring",
+      "explanation": "Zigbee supports Star, Tree, and Mesh but not Ring."
+    },
+    "6": {
+      "question": "What is Xbee in Zigbee communication?",
+      "options": {
+        "A": "A network protocol",
+        "B": "A product that uses Zigbee protocol",
+        "C": "A routing algorithm",
+        "D": "A MAC-layer standard"
+      },
+      "correctOption": "A product that uses Zigbee protocol",
+      "explanation": "Xbee is a hardware module implementing Zigbee."
+    },
+    "7": {
+      "question": "Which sensor generates 20–40 MB/s data in autonomous vehicles?",
+      "options": {
+        "A": "GPS",
+        "B": "RADAR",
+        "C": "Camera",
+        "D": "SONAR"
+      },
+      "correctOption": "Camera",
+      "explanation": "Camera sensors generate high data rates in autonomous systems."
+    },
+    "8": {
+      "question": "What computing processes data near sensors before sending to cloud?",
+      "options": {
+        "A": "Edge computing",
+        "B": "Centralized computing",
+        "C": "Distributed computing",
+        "D": "Batch computing"
+      },
+      "correctOption": "Edge computing",
+      "explanation": "Edge computing processes data close to source devices."
+    },
+    "9": {
+      "question": "In IIoT pipeline, where are rules initially configured?",
+      "options": {
+        "A": "Sensor nodes",
+        "B": "Cloud",
+        "C": "Edge analytics agent",
+        "D": "Actuators"
+      },
+      "correctOption": "Cloud",
+      "explanation": "Rules are first configured in the cloud."
+    },
+    "10": {
+      "question": "What is the main objective of AR drones in precision agriculture?",
+      "options": {
+        "A": "Monitoring soil moisture",
+        "B": "Precise fertilizer spray to weeds",
+        "C": "Autonomous harvesting",
+        "D": "Livestock monitoring"
+      },
+      "correctOption": "Precise fertilizer spray to weeds",
+      "explanation": "AR drones target weeds for precise spraying."
+    },
+    "11": {
+      "question": "SWAMP provides a smart management layer between:",
+      "options": {
+        "A": "Water distribution and farm irrigation",
+        "B": "Cloud and mobile apps",
+        "C": "Sensors and actuators",
+        "D": "Enterprise and automation"
+      },
+      "correctOption": "Water distribution and farm irrigation",
+      "explanation": "SWAMP connects water distribution systems and irrigation."
+    },
+    "12": {
+      "question": "What do process variables represent?",
+      "options": {
+        "A": "Controller outputs",
+        "B": "Operating limits",
+        "C": "Measured process parameters",
+        "D": "Actuator signals"
+      },
+      "correctOption": "Measured process parameters",
+      "explanation": "They represent sensor-measured values."
+    },
+    "13": {
+      "question": "What is the fundamental element of industrial control systems?",
+      "options": {
+        "A": "Control loops",
+        "B": "Sensors",
+        "C": "Controllers",
+        "D": "Actuators"
+      },
+      "correctOption": "Control loops",
+      "explanation": "Control loops are core to automatic control."
+    },
+    "14": {
+      "question": "Which SCADA component interfaces directly with sensors?",
+      "options": {
+        "A": "Supervisory System",
+        "B": "HMI",
+        "C": "Communication Infrastructure",
+        "D": "PLC and RTU"
+      },
+      "correctOption": "PLC and RTU",
+      "explanation": "PLCs and RTUs interact directly with sensors."
+    },
+    "15": {
+      "question": "What is a primary advantage of PLCs over hard-wired systems?",
+      "options": {
+        "A": "Larger and durable",
+        "B": "Easily reprogrammable",
+        "C": "Higher voltage",
+        "D": "No power needed"
+      },
+      "correctOption": "Easily reprogrammable",
+      "explanation": "PLCs allow easy reprogramming and upgrades."
+    }
+  }

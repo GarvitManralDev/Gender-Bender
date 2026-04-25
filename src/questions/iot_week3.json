@@ -1,0 +1,163 @@
+{
+    "1": {
+      "question": "Who developed the first functioning Augmented Reality (AR) system in 1992?",
+      "options": {
+        "A": "Ivan Sutherland",
+        "B": "Louis Rosenberg",
+        "C": "Thamos Caudell",
+        "D": "Morton Heilig"
+      },
+      "correctOption": "Louis Rosenberg",
+      "explanation": "Louis Rosenberg developed the first functioning AR system in 1992."
+    },
+    "2": {
+      "question": "In the 5C Architecture of CPS, which level provides the “Collaborative Diagnostics” functionality?",
+      "options": {
+        "A": "Cyber Level",
+        "B": "Cognition Level",
+        "C": "Configuration Level",
+        "D": "Conversion Level"
+      },
+      "correctOption": "Cognition Level",
+      "explanation": "The Cognition level supports collaborative diagnostics and decision making."
+    },
+    "3": {
+      "question": "State True or False: AR technologies are widely used in medical science for complex surgeries.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "AR is widely used in neurosurgery, MRI, and X-ray-based procedures."
+    },
+    "4": {
+      "question": "Which “V” of Big Data refers to diverse categories and formats of data?",
+      "options": {
+        "A": "Volume",
+        "B": "Velocity",
+        "C": "Variety",
+        "D": "Value"
+      },
+      "correctOption": "Variety",
+      "explanation": "Variety represents heterogeneous and diverse data formats."
+    },
+    "5": {
+      "question": "In Data Acquisition (Industry 4.0), what are the three steps in relational data pre-processing?",
+      "options": {
+        "A": "Collection, Transmission, Storage",
+        "B": "Integration, Clearing, Redundancy Mitigation",
+        "C": "Analysis, Visualization, Decision Making",
+        "D": "Encryption, Compression, Archiving"
+      },
+      "correctOption": "Integration, Clearing, Redundancy Mitigation",
+      "explanation": "Pre-processing involves integrating, cleaning, and removing redundancy."
+    },
+    "6": {
+      "question": "What is the first step in the working of a Virtual Reality (VR) system?",
+      "options": {
+        "A": "Display screen shows view",
+        "B": "Processing unit creates sensations",
+        "C": "Lenses reshape the image",
+        "D": "Sensors estimate motion and direction"
+      },
+      "correctOption": "Sensors estimate motion and direction",
+      "explanation": "VR begins with sensors detecting user motion and orientation."
+    },
+    "7": {
+      "question": "State True or False: Brain-machine interfaces are part of CPS.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Brain-machine interfaces are CPS-based systems combining cognition and engineering."
+    },
+    "8": {
+      "question": "What are PMUs in CPS for Smart Grid?",
+      "options": {
+        "A": "Power Management Unit",
+        "B": "Phasor Measurement Unit",
+        "C": "Performance Monitoring Unit",
+        "D": "Project Management Unit"
+      },
+      "correctOption": "Phasor Measurement Unit",
+      "explanation": "PMUs measure synchronized voltage and current phasors."
+    },
+    "9": {
+      "question": "Which option best describes a Collaboration Platform?",
+      "options": {
+        "A": "Manufacturing hardware device",
+        "B": "Business networking software",
+        "C": "Entertainment social app",
+        "D": "Financial record database"
+      },
+      "correctOption": "Business networking software",
+      "explanation": "Collaboration platforms enable organizational networking and operations."
+    },
+    "10": {
+      "question": "What are the five phases of the Product Lifecycle?",
+      "options": {
+        "A": "Plan, Do, Check, Act",
+        "B": "Design, Build, Test, Deploy",
+        "C": "Ideate, Create, Market, Sell",
+        "D": "Visualize, Explain, Perceive, Retire"
+      },
+      "correctOption": "Visualize, Explain, Perceive, Retire",
+      "explanation": "Lifecycle includes phases from visualization to retirement."
+    },
+    "11": {
+      "question": "Which technique is used to refine production across the lifecycle?",
+      "options": {
+        "A": "ABC (Activity Based Costing)",
+        "B": "XYZ Analysis",
+        "C": "PQR Theory",
+        "D": "LMN Modeling"
+      },
+      "correctOption": "ABC (Activity Based Costing)",
+      "explanation": "ABC helps refine production by analyzing costs."
+    },
+    "12": {
+      "question": "Which best describes Artificial Intelligence (AI)?",
+      "options": {
+        "A": "Hardware manufacturing process",
+        "B": "Manmade thinking power",
+        "C": "Database management system",
+        "D": "Manual data entry"
+      },
+      "correctOption": "Manmade thinking power",
+      "explanation": "AI simulates human-like thinking and decision-making."
+    },
+    "13": {
+      "question": "Declarative knowledge is also known as ________.",
+      "options": {
+        "A": "Operational knowledge",
+        "B": "Heuristic knowledge",
+        "C": "Relational knowledge",
+        "D": "Procedural knowledge"
+      },
+      "correctOption": "Relational knowledge",
+      "explanation": "Declarative knowledge refers to relational knowledge."
+    },
+    "14": {
+      "question": "Which is a use case of AI in Industry 4.0?",
+      "options": {
+        "A": "Increasing manual labor",
+        "B": "Reducing internet usage",
+        "C": "Slowing production cycles",
+        "D": "Ensuring machine safety"
+      },
+      "correctOption": "Ensuring machine safety",
+      "explanation": "AI improves safety and efficiency in industrial systems."
+    },
+    "15": {
+      "question": "Which statement describes Unstructured data?",
+      "options": {
+        "A": "Possesses pre-defined model",
+        "B": "Stored in relational databases",
+        "C": "Managed by SQL",
+        "D": "No pre-defined model"
+      },
+      "correctOption": "No pre-defined model",
+      "explanation": "Unstructured data has no predefined structure or schema."
+    }
+}

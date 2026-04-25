@@ -21,6 +21,8 @@ function App() {
         <Route path="/quiz/:week" element={<QuizPageRoute />} />
         <Route path="/data/quiz" element={<StartQuiz />} />
         <Route path="/data/quiz/:week" element={<QuizPageRoute />} />
+        <Route path="/iot/quiz" element={<StartQuiz />} />
+        <Route path="/iot/quiz/:week" element={<QuizPageRoute />} />
       </Routes>
     </BrowserRouter>
   )

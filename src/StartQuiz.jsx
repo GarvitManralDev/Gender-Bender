@@ -62,7 +62,8 @@ export default function StartQuiz() {
   const navigate = useNavigate()
   const { pathname } = useLocation()
   const isDataVeta = pathname.startsWith('/data')
-  const quizBase = isDataVeta ? '/data/quiz' : '/quiz'
+  const isIot = pathname.startsWith('/iot')
+  const quizBase = isDataVeta ? '/data/quiz' : isIot ? '/iot/quiz' : '/quiz'
 
   return (
     <main style={page}>
@@ -72,6 +73,8 @@ export default function StartQuiz() {
       <h1 style={heading}>
         {isDataVeta
           ? 'Data Veta — select week'
+          : isIot
+            ? 'IoT — select week'
           : 'Select week to revise'}
       </h1>
       <div style={stack}>

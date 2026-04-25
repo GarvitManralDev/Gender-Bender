@@ -1,0 +1,165 @@
+{
+    "1": {
+      "question": "In the context of the Value Proposition building block, which is a qualitative value?",
+      "options": {
+        "A": "Price",
+        "B": "Post-purchase cost reduction",
+        "C": "Customer experience",
+        "D": "Product performance"
+      },
+      "correctOption": "Customer experience",
+      "explanation": "Customer experience is categorized as a qualitative value."
+    },
+    "2": {
+      "question": "A business model serving specific and specialized customer groups is called:",
+      "options": {
+        "A": "Mass market",
+        "B": "Segmented market",
+        "C": "Niche market",
+        "D": "Diversified market"
+      },
+      "correctOption": "Niche market",
+      "explanation": "Niche markets focus on specialized customer groups."
+    },
+    "3": {
+      "question": "Credits and cash owned by an organization are classified as:",
+      "options": {
+        "A": "Physical assets",
+        "B": "Human assets",
+        "C": "Intellectual assets",
+        "D": "Financial assets"
+      },
+      "correctOption": "Financial assets",
+      "explanation": "Financial assets include cash and credits."
+    },
+    "4": {
+      "question": "Which IIoT business model component addresses interaction complexities between business actors?",
+      "options": {
+        "A": "Value Proposition",
+        "B": "Value Network",
+        "C": "Value Capturing",
+        "D": "Value Communication"
+      },
+      "correctOption": "Value Communication",
+      "explanation": "Value Communication deals with complexities among stakeholders."
+    },
+    "5": {
+      "question": "In Big Data, which V refers to data trustworthiness and quality?",
+      "options": {
+        "A": "Volume",
+        "B": "Velocity",
+        "C": "Variety",
+        "D": "Veracity"
+      },
+      "correctOption": "Veracity",
+      "explanation": "Veracity refers to data reliability and quality."
+    },
+    "6": {
+      "question": "Which is a lagging KPI for occupational safety?",
+      "options": {
+        "A": "Percentage of workers with safety training",
+        "B": "Number of OSH audits performed",
+        "C": "Frequency of unsafe behavior",
+        "D": "Production days lost due to sickness absence"
+      },
+      "correctOption": "Production days lost due to sickness absence",
+      "explanation": "It is an outcome-based lagging indicator."
+    },
+    "7": {
+      "question": "Caterpillar uses IoT combined with which technology for monitoring?",
+      "options": {
+        "A": "Virtual Reality",
+        "B": "Augmented Reality",
+        "C": "Blockchain",
+        "D": "Quantum computing"
+      },
+      "correctOption": "Augmented Reality",
+      "explanation": "Caterpillar uses AR with IoT for monitoring."
+    },
+    "8": {
+      "question": "Maersk uses IoT primarily for:",
+      "options": {
+        "A": "Smart Logistics",
+        "B": "Manufacturing cars",
+        "C": "Generating electricity",
+        "D": "Mining coal"
+      },
+      "correctOption": "Smart Logistics",
+      "explanation": "Maersk applies IoT in logistics operations."
+    },
+    "9": {
+      "question": "What does a Business Model primarily describe?",
+      "options": {
+        "A": "Technical hardware specs",
+        "B": "Rationale of creating value",
+        "C": "Employee schedules",
+        "D": "Office layout"
+      },
+      "correctOption": "Rationale of creating value",
+      "explanation": "It explains how value is created, delivered, and captured."
+    },
+    "10": {
+      "question": "State True or False: Lack of interoperability increases complexity.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Lack of interoperability increases system complexity."
+    },
+    "11": {
+      "question": "The three categories of IIoT business models include Cloud-based, Process-Oriented, and ________.",
+      "options": {
+        "A": "Hardware-Oriented",
+        "B": "Service-Oriented",
+        "C": "Product-Oriented",
+        "D": "Data-Oriented"
+      },
+      "correctOption": "Service-Oriented",
+      "explanation": "These are the main categories of IIoT business models."
+    },
+    "12": {
+      "question": "In IIRA, what are collections of ideas that address specific concerns?",
+      "options": {
+        "A": "Stakeholders",
+        "B": "Architecture Frames",
+        "C": "Viewpoints",
+        "D": "Testbeds"
+      },
+      "correctOption": "Viewpoints",
+      "explanation": "Viewpoints describe and solve architectural concerns."
+    },
+    "13": {
+      "question": "Which architecture pattern allows fast device-to-device integration?",
+      "options": {
+        "A": "Three-tier architecture",
+        "B": "Client-Server architecture",
+        "C": "Layered Databus pattern",
+        "D": "Gateway-mediated architecture"
+      },
+      "correctOption": "Layered Databus pattern",
+      "explanation": "It enables fast communication with minimal latency."
+    },
+    "14": {
+      "question": "In the Usage Viewpoint of IIRA, what is the basic unit of work?",
+      "options": {
+        "A": "Task",
+        "B": "Activity",
+        "C": "Agent",
+        "D": "Workflow"
+      },
+      "correctOption": "Task",
+      "explanation": "Task is defined as the basic unit of work."
+    },
+    "15": {
+      "question": "Which IIRA viewpoint relates to technical system representation?",
+      "options": {
+        "A": "Functional Viewpoint",
+        "B": "Implementation Viewpoint",
+        "C": "Usage Viewpoint",
+        "D": "Business Viewpoint"
+      },
+      "correctOption": "Implementation Viewpoint",
+      "explanation": "It focuses on interfaces, protocols, and behaviors."
+    }
+}

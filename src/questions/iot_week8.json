@@ -1,0 +1,163 @@
+{
+    "1": {
+      "question": "What is the purpose of feature extraction in ML?",
+      "options": {
+        "A": "Convert raw data into compressed bitstreams only",
+        "B": "Convert raw data to information that relates to the physical state of the asset",
+        "C": "Encrypt sensor data for security",
+        "D": "Remove time stamps from data"
+      },
+      "correctOption": "Convert raw data to information that relates to the physical state of the asset",
+      "explanation": "Feature extraction converts raw data into meaningful information about the physical state."
+    },
+    "2": {
+      "question": "What is a primary goal of applying analytics in industrial systems?",
+      "options": {
+        "A": "Maximizing data volume",
+        "B": "Replacing all controllers with cloud services",
+        "C": "Improving operational platform, performance, and safety",
+        "D": "Eliminating human workers completely"
+      },
+      "correctOption": "Improving operational platform, performance, and safety",
+      "explanation": "Industrial analytics focuses on improving performance, operations, and safety."
+    },
+    "3": {
+      "question": "What kind of data does supervised learning require?",
+      "options": {
+        "A": "Completely unlabeled streams",
+        "B": "Only binary sensor signals",
+        "C": "Labeled datasets with known output classes or values",
+        "D": "Data without any prior samples"
+      },
+      "correctOption": "Labeled datasets with known output classes or values",
+      "explanation": "Supervised learning requires labeled data for training."
+    },
+    "4": {
+      "question": "Which is a goal of IIoT analytics?",
+      "options": {
+        "A": "Manual inspection",
+        "B": "Dynamic operations optimization",
+        "C": "Hardware miniaturization",
+        "D": "Network routing"
+      },
+      "correctOption": "Dynamic operations optimization",
+      "explanation": "IIoT analytics aims to optimize operations dynamically."
+    },
+    "5": {
+      "question": "What approach replaces physics-based models in IIoT analytics?",
+      "options": {
+        "A": "Data-driven modelling using ML and DL",
+        "B": "Heuristic optimization",
+        "C": "Rule-based control",
+        "D": "Manual calibration"
+      },
+      "correctOption": "Data-driven modelling using ML and DL",
+      "explanation": "Modern IIoT analytics uses ML/DL instead of physics-based models."
+    },
+    "6": {
+      "question": "Data Science involves which areas?",
+      "options": {
+        "A": "Only computer science",
+        "B": "Only data processing",
+        "C": "Only artificial intelligence",
+        "D": "Computer science, statistics, mathematics, machine learning, and domain expertise"
+      },
+      "correctOption": "Computer science, statistics, mathematics, machine learning, and domain expertise",
+      "explanation": "Data science integrates multiple disciplines."
+    },
+    "7": {
+      "question": "Unsupervised learning is mainly used for identifying similar groups of data called ______.",
+      "options": {
+        "A": "Clustering",
+        "B": "Classification",
+        "C": "Regression",
+        "D": "Prediction"
+      },
+      "correctOption": "Clustering",
+      "explanation": "Unsupervised learning groups similar data points via clustering."
+    },
+    "8": {
+      "question": "Which clustering algorithm allows a data point to belong to multiple clusters?",
+      "options": {
+        "A": "K-Means",
+        "B": "Linear Regression",
+        "C": "Decision Tree",
+        "D": "Fuzzy c-Means"
+      },
+      "correctOption": "Fuzzy c-Means",
+      "explanation": "Fuzzy c-Means allows soft clustering."
+    },
+    "9": {
+      "question": "Machine learning algorithms are not useful for ______ data.",
+      "options": {
+        "A": "Structured",
+        "B": "Temporal",
+        "C": "High dimensional",
+        "D": "Labeled"
+      },
+      "correctOption": "High dimensional",
+      "explanation": "ML struggles with very high-dimensional data in some contexts."
+    },
+    "10": {
+      "question": "State True or False: Deep learning mimics billions of neurons in the human brain.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Deep learning is inspired by biological neural networks."
+    },
+    "11": {
+      "question": "Platform-as-a-Service mainly allows industries to:",
+      "options": {
+        "A": "Only deploy hardware",
+        "B": "Self-develop applications",
+        "C": "Store raw sensor data only",
+        "D": "Replace networking infrastructure"
+      },
+      "correctOption": "Self-develop applications",
+      "explanation": "PaaS enables development of applications."
+    },
+    "12": {
+      "question": "Which type of data contributes to cloud demand in IIoT?",
+      "options": {
+        "A": "Image data",
+        "B": "M2M sensor data",
+        "C": "Social media data",
+        "D": "Textual reports"
+      },
+      "correctOption": "M2M sensor data",
+      "explanation": "Machine-to-machine sensor data drives cloud demand."
+    },
+    "13": {
+      "question": "State True or False: More devices increase IIoT complexity requiring cloud management.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "More devices increase complexity and require cloud-based management."
+    },
+    "14": {
+      "question": "What is a key purpose of an SLA in IIoT?",
+      "options": {
+        "A": "Eliminating cloud providers",
+        "B": "Promising deliverables from cloud providers",
+        "C": "Increasing hardware redundancy",
+        "D": "Enforcing local computation"
+      },
+      "correctOption": "Promising deliverables from cloud providers",
+      "explanation": "SLA defines service commitments."
+    },
+    "15": {
+      "question": "A good SLA should be affordable, quantifiable, controllable, meaningful, mutually acceptable, and ______.",
+      "options": {
+        "A": "Flexible",
+        "B": "Enforceable",
+        "C": "Achievable",
+        "D": "Adaptive"
+      },
+      "correctOption": "Achievable",
+      "explanation": "Achievable is a key SLA characteristic."
+    }
+  }

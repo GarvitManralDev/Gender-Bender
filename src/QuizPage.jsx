@@ -10,6 +10,9 @@ const genderWeekFiles = import.meta.glob('./questions/week*.json', {
 const pythonWeekFiles = import.meta.glob('./questions/py_week*.json', {
   eager: true,
 })
+const iotWeekFiles = import.meta.glob('./questions/iot_week*.json', {
+  eager: true,
+})
 
 const page = {
   minHeight: '100svh',
@@ -91,6 +94,7 @@ function normalizeEntry(raw, id) {
     options: optionTexts,
     correctLetter,
     correctText: raw.correctOption,
+    explanation: raw.explanation ? String(raw.explanation) : '',
   }
 }
 
@@ -134,8 +138,13 @@ export default function QuizPage() {
   const { week } = useParams()
   const { pathname } = useLocation()
   const isDataVeta = pathname.startsWith('/data')
-  const weekFiles = isDataVeta ? pythonWeekFiles : genderWeekFiles
-  const quizWeeksPath = isDataVeta ? '/data/quiz' : '/quiz'
+  const isIot = pathname.startsWith('/iot')
+  const weekFiles = isDataVeta
+    ? pythonWeekFiles
+    : isIot
+      ? iotWeekFiles
+      : genderWeekFiles
+  const quizWeeksPath = isDataVeta ? '/data/quiz' : isIot ? '/iot/quiz' : '/quiz'
 
   const questions = useMemo(
     () => shuffle(buildQuestionList(week, weekFiles)),
@@ -161,6 +170,7 @@ export default function QuizPage() {
         userText,
         correctLetter: current.correctLetter,
         correctText: current.correctText,
+        explanation: current.explanation,
         isCorrect,
       },
     ])
@@ -240,6 +250,11 @@ export default function QuizPage() {
                   <p style={{ margin: '0.35rem 0 0', color: '#86efac' }}>
                     Correct: {r.correctLetter}) {r.correctText}
                   </p>
+                  {r.explanation && (
+                    <p style={{ margin: '0.35rem 0 0', color: '#d4d4d4' }}>
+                      Explanation: {r.explanation}
+                    </p>
+                  )}
                 </div>
               ))}
             </>

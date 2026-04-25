@@ -1,0 +1,165 @@
+{
+    "1": {
+      "question": "Which component of Cybersecurity protects applications from outer threats, often using firewalls?",
+      "options": {
+        "A": "Application Security",
+        "B": "Network Security",
+        "C": "Cloud Security",
+        "D": "End-user Education"
+      },
+      "correctOption": "Application Security",
+      "explanation": "Application security protects applications using software and hardware countermeasures such as firewalls."
+    },
+    "2": {
+      "question": "What is Zephyr?",
+      "options": {
+        "A": "A Smart Sensor",
+        "B": "A Website",
+        "C": "An OS",
+        "D": "None of these"
+      },
+      "correctOption": "An OS",
+      "explanation": "Zephyr is a supporting operating system used in smart sensor systems."
+    },
+    "3": {
+      "question": "Fill in the blank: Most ransomware attacks use _____ where users are tricked into opening a malicious attachment.",
+      "options": {
+        "A": "Worm",
+        "B": "Virus",
+        "C": "Trojan",
+        "D": "Malware"
+      },
+      "correctOption": "Trojan",
+      "explanation": "Ransomware commonly spreads via Trojans disguised as legitimate files."
+    },
+    "4": {
+      "question": "In Software-Defined Cloud Manufacturing Architecture (SDCMA), which component detects abnormality?",
+      "options": {
+        "A": "Control Elements (CE)",
+        "B": "Hardware Plane",
+        "C": "Ensemble Intelligence Framework (EIF)",
+        "D": "Software Plane"
+      },
+      "correctOption": "Ensemble Intelligence Framework (EIF)",
+      "explanation": "EIF is responsible for detecting abnormalities in SDCMA."
+    },
+    "5": {
+      "question": "Fill in the blank: Typically, _______ form the core of smart sensor nodes.",
+      "options": {
+        "A": "Transistors",
+        "B": "Microprocessors",
+        "C": "MOSFETS",
+        "D": "Diodes"
+      },
+      "correctOption": "Microprocessors",
+      "explanation": "Microprocessors form the core processing unit of smart sensor nodes."
+    },
+    "6": {
+      "question": "Which cybersecurity component focuses on maintaining availability, integrity, and confidentiality of data?",
+      "options": {
+        "A": "Network Security",
+        "B": "Operational Security",
+        "C": "Information Security",
+        "D": "Physical Security"
+      },
+      "correctOption": "Information Security",
+      "explanation": "Information security ensures data protection using the CIA triad."
+    },
+    "7": {
+      "question": "Which of the following is NOT a protected asset in cybersecurity?",
+      "options": {
+        "A": "Hardware",
+        "B": "Software",
+        "C": "Data",
+        "D": "Public domain information"
+      },
+      "correctOption": "Public domain information",
+      "explanation": "Public domain information is not considered a protected cybersecurity asset."
+    },
+    "8": {
+      "question": "How does IIoT modify traditional automation techniques?",
+      "options": {
+        "A": "By removing all sensors",
+        "B": "By exploiting IT technology",
+        "C": "By using manual tools",
+        "D": "By ignoring data"
+      },
+      "correctOption": "By exploiting IT technology",
+      "explanation": "IIoT enhances automation by integrating information technology."
+    },
+    "9": {
+      "question": "Which is a major challenge in IIoT deployment?",
+      "options": {
+        "A": "Excessive standardization",
+        "B": "Lack of generated data",
+        "C": "Surplus of skilled workers",
+        "D": "Data integration challenges"
+      },
+      "correctOption": "Data integration challenges",
+      "explanation": "Integrating diverse data sources is a key challenge in IIoT."
+    },
+    "10": {
+      "question": "How does Industrial Internet assist power production?",
+      "options": {
+        "A": "Increases inspection costs",
+        "B": "Locates broken equipment easily",
+        "C": "Disconnects the grid",
+        "D": "Hides performance data"
+      },
+      "correctOption": "Locates broken equipment easily",
+      "explanation": "It helps identify faulty equipment quickly and efficiently."
+    },
+    "11": {
+      "question": "State True or False: Industrial Internet improves airline operations and asset management.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "It enhances efficiency in aviation operations and asset tracking."
+    },
+    "12": {
+      "question": "What is the primary source of IIoT data?",
+      "options": {
+        "A": "Cloud Server",
+        "B": "Actuator",
+        "C": "Sensor",
+        "D": "Microprocessor"
+      },
+      "correctOption": "Sensor",
+      "explanation": "Sensors collect real-world data, making them the primary data source."
+    },
+    "13": {
+      "question": "Fill in the blank: Conventional sensing is primarily involved in __________.",
+      "options": {
+        "A": "Feedback automation",
+        "B": "Cloud computing",
+        "C": "Internet connectivity",
+        "D": "Big data analytics"
+      },
+      "correctOption": "Feedback automation",
+      "explanation": "Conventional sensing supports feedback-based control systems."
+    },
+    "14": {
+      "question": "Which Industry 4.0 challenge relates to ageing society and lack of skilled workers?",
+      "options": {
+        "A": "Dynamic market conditions",
+        "B": "Resource utilization",
+        "C": "Constrained workforce",
+        "D": "Product management"
+      },
+      "correctOption": "Constrained workforce",
+      "explanation": "This issue falls under workforce constraints in Industry 4.0."
+    },
+    "15": {
+      "question": "Efficient use of materials, water, and energy falls under which Industry 4.0 feature?",
+      "options": {
+        "A": "Competitiveness",
+        "B": "Innovation",
+        "C": "Workforce",
+        "D": "Efficiency"
+      },
+      "correctOption": "Efficiency",
+      "explanation": "Efficient resource usage is categorized under efficiency."
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "1": {
+      "question": "What is the usual packet size requirement for uRLLC?",
+      "options": {
+        "A": "8 B",
+        "B": "16–32 B",
+        "C": "32–200 B",
+        "D": "1024 B"
+      },
+      "correctOption": "32–200 B",
+      "explanation": "uRLLC requires packet sizes between 32 and 200 bytes for ultra-low latency and high reliability."
+    },
+    "2": {
+      "question": "Fill in the blank: ModBus-TCP is primarily designed to run over _______.",
+      "options": {
+        "A": "Serial RS-232 links",
+        "B": "Standard Ethernet and TCP/IP",
+        "C": "Bluetooth Low Energy",
+        "D": "Satellite communication"
+      },
+      "correctOption": "Standard Ethernet and TCP/IP",
+      "explanation": "ModBus-TCP operates over Ethernet and TCP/IP stack."
+    },
+    "3": {
+      "question": "Which Profibus variant is designed for high-speed communication using RS-485 or fiber optics?",
+      "options": {
+        "A": "Profibus PA",
+        "B": "Profibus FMS",
+        "C": "Profibus DP",
+        "D": "Profinet"
+      },
+      "correctOption": "Profibus DP",
+      "explanation": "Profibus DP is used for high-speed communication between automation systems."
+    },
+    "4": {
+      "question": "What is the maximum transmission rate of Standard CC-Link?",
+      "options": {
+        "A": "156 kbps",
+        "B": "500 kbps",
+        "C": "10 Mbps",
+        "D": "1 Gbps"
+      },
+      "correctOption": "10 Mbps",
+      "explanation": "Standard CC-Link supports up to 10 Mbps."
+    },
+    "5": {
+      "question": "Which gas sensing method relies on electrical variation?",
+      "options": {
+        "A": "Acoustic Methods",
+        "B": "Optic Methods",
+        "C": "Metal Oxide Semiconductors (MOS)",
+        "D": "Calorimetric Method"
+      },
+      "correctOption": "Metal Oxide Semiconductors (MOS)",
+      "explanation": "MOS sensors detect gases via changes in electrical properties."
+    },
+    "6": {
+      "question": "Fieldbus is primarily used for which type of data transfer?",
+      "options": {
+        "A": "Clock synchronization",
+        "B": "High-performance analytics",
+        "C": "Periodic I/O data transfer",
+        "D": "WAN management"
+      },
+      "correctOption": "Periodic I/O data transfer",
+      "explanation": "Fieldbus enables periodic I/O communication between devices."
+    },
+    "7": {
+      "question": "Smoke detectors and alcohol detectors fall under which sensor category?",
+      "options": {
+        "A": "Optical sensors",
+        "B": "Thermal sensors",
+        "C": "Chemical sensors",
+        "D": "Electrical sensors"
+      },
+      "correctOption": "Chemical sensors",
+      "explanation": "They detect substances via chemical interactions."
+    },
+    "8": {
+      "question": "Which CC-Link variant ensures error-free communication over Industrial Ethernet?",
+      "options": {
+        "A": "CC-Link Safety",
+        "B": "CC-Link LT",
+        "C": "CC-Link IE",
+        "D": "CC-Link RTU"
+      },
+      "correctOption": "CC-Link IE",
+      "explanation": "CC-Link IE uses Industrial Ethernet for reliable data transfer."
+    },
+    "9": {
+      "question": "What is a key concern emphasized in IIoT systems?",
+      "options": {
+        "A": "Only profitability",
+        "B": "Only system throughput",
+        "C": "Efficiency, productivity, health, and safety",
+        "D": "Hardware miniaturization"
+      },
+      "correctOption": "Efficiency, productivity, health, and safety",
+      "explanation": "IIoT focuses on improving efficiency, productivity, and safety."
+    },
+    "10": {
+      "question": "State True or False: LM35 output voltage is proportional to Kelvin temperature.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "False",
+      "explanation": "LM35 output is proportional to Celsius temperature."
+    },
+    "11": {
+      "question": "Air quality monitoring systems are deployed to __________.",
+      "options": {
+        "A": "Improve bandwidth",
+        "B": "Avoid harmful gas exposure",
+        "C": "Reduce hardware cost",
+        "D": "Increase storage"
+      },
+      "correctOption": "Avoid harmful gas exposure",
+      "explanation": "They help prevent exposure to harmful gases."
+    },
+    "12": {
+      "question": "Which belongs to the Fieldbus category?",
+      "options": {
+        "A": "Profinet",
+        "B": "EtherNet/IP",
+        "C": "TSN",
+        "D": "Modbus-RTU"
+      },
+      "correctOption": "Modbus-RTU",
+      "explanation": "Modbus-RTU is a Fieldbus technology."
+    },
+    "13": {
+      "question": "Which Profibus variant is used between PCs and PLCs?",
+      "options": {
+        "A": "Profibus DP",
+        "B": "Profibus PA",
+        "C": "Profibus FMS",
+        "D": "Profibus IE"
+      },
+      "correctOption": "Profibus FMS",
+      "explanation": "Profibus FMS supports communication between PCs and PLCs."
+    },
+    "14": {
+      "question": "Which topology is used by Interbus?",
+      "options": {
+        "A": "Bus",
+        "B": "Star",
+        "C": "Active ring",
+        "D": "Hybrid"
+      },
+      "correctOption": "Active ring",
+      "explanation": "Interbus uses an active ring topology."
+    },
+    "15": {
+      "question": "Which frequency band is classified as high band in 5G NR?",
+      "options": {
+        "A": "< 1 GHz",
+        "B": "1–6 GHz",
+        "C": "> 24 GHz",
+        "D": "6–24 GHz"
+      },
+      "correctOption": "> 24 GHz",
+      "explanation": "High-band 5G operates above 24 GHz."
+    }
+  }

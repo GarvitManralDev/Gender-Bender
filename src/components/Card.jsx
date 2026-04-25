@@ -1,3 +1,5 @@
+import { useState } from 'react'
+
 const LETTERS = ['A', 'B', 'C', 'D']
 
 const card = {
@@ -79,9 +81,15 @@ const badge = {
  */
 export default function Card({ question, options, onAnswer }) {
   const safeOptions = Array.isArray(options) ? options.slice(0, 4) : []
+  const [selectedLetter, setSelectedLetter] = useState(null)
 
   function handlePick(letter) {
-    onAnswer?.(letter)
+    if (selectedLetter) return
+    setSelectedLetter(letter)
+    window.setTimeout(() => {
+      onAnswer?.(letter)
+      setSelectedLetter(null)
+    }, 180)
   }
 
   return (
@@ -98,8 +106,18 @@ export default function Card({ question, options, onAnswer }) {
             <li key={letter}>
               <button
                 type="button"
-                style={optionBtn}
+                style={
+                  selectedLetter === letter
+                    ? {
+                        ...optionBtn,
+                        color: '#fdba74',
+                        border: '1px solid #c2410c',
+                        background: '#1f1307',
+                      }
+                    : optionBtn
+                }
                 onClick={() => handlePick(letter)}
+                disabled={Boolean(selectedLetter)}
               >
                 <span style={badge} aria-hidden="true">
                   {letter}

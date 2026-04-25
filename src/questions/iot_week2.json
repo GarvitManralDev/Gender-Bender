@@ -1,0 +1,167 @@
+{
+    "1": {
+      "question": "Which type of waste in the Lean Production System is defined as “Non value-added movement of people”?",
+      "options": {
+        "A": "Transportation",
+        "B": "Motion",
+        "C": "Waiting",
+        "D": "Defects"
+      },
+      "correctOption": "Motion",
+      "explanation": "Motion refers to the non value-added movement of people, distinct from transportation which involves movement of materials."
+    },
+    "2": {
+      "question": "Which type of business model value proposition exists when a bunch of goods/services are of higher value compared to the individual value of that product?",
+      "options": {
+        "A": "Efficiency-centric",
+        "B": "Novelty-centric",
+        "C": "Lock-in centric",
+        "D": "Complementary"
+      },
+      "correctOption": "Complementary",
+      "explanation": "Complementaries exist when a bundle provides higher value than individual offerings."
+    },
+    "3": {
+      "question": "In the context of Lean Manufacturing wastes, what causes “Processing waste”?",
+      "options": {
+        "A": "Producing products before demand",
+        "B": "Use of inappropriate tools for processing",
+        "C": "Excess inventory on the factory floor",
+        "D": "Non-value added movement of personnel"
+      },
+      "correctOption": "Use of inappropriate tools for processing",
+      "explanation": "Processing waste arises from using inappropriate tools or methods that increase cost without adding value."
+    },
+    "4": {
+      "question": "Which resource is primarily utilized to achieve “Optimization” in smart and connected products?",
+      "options": {
+        "A": "Optimization algorithms",
+        "B": "Custom software",
+        "C": "External data sources",
+        "D": "Sensors only"
+      },
+      "correctOption": "Optimization algorithms",
+      "explanation": "Optimization algorithms are the key resource to achieve optimization."
+    },
+    "5": {
+      "question": "Which specific “New Material” is described as being stronger than steel but thinner than a human hair?",
+      "options": {
+        "A": "Carbon Fiber",
+        "B": "Graphene",
+        "C": "Aerogel",
+        "D": "Titanium Alloy"
+      },
+      "correctOption": "Graphene",
+      "explanation": "Graphene is stronger than steel and extremely thin."
+    },
+    "6": {
+      "question": "What are the three types of work when analyzing value streams?",
+      "options": {
+        "A": "Design, Production, and Delivery",
+        "B": "Value-added, Incidental, and Pure Waste",
+        "C": "Manual, Automated, and Hybrid",
+        "D": "Planning, Execution, and Monitoring"
+      },
+      "correctOption": "Value-added, Incidental, and Pure Waste",
+      "explanation": "Value stream analysis identifies value-added, incidental, and pure waste work."
+    },
+    "7": {
+      "question": "What are the three categories of Megatrends driving the Fourth Industrial Revolution?",
+      "options": {
+        "A": "Economic, Social, Political",
+        "B": "Physical, Digital, Biological",
+        "C": "Hardware, Software, Network",
+        "D": "Local, National, Global"
+      },
+      "correctOption": "Physical, Digital, Biological",
+      "explanation": "Megatrends are classified into Physical, Digital, and Biological categories."
+    },
+    "8": {
+      "question": "Which material except Graphene is cited as an example of “New Materials” under Physical Megatrends?",
+      "options": {
+        "A": "Silicon",
+        "B": "Thermoset plastics",
+        "C": "Copper",
+        "D": "Aluminum"
+      },
+      "correctOption": "Thermoset plastics",
+      "explanation": "Thermoset plastics are listed along with Graphene as new materials."
+    },
+    "9": {
+      "question": "How do you define Sustainability in the context of a Manufacturing Industry?",
+      "options": {
+        "A": "To increase profit margins annually",
+        "B": "To continue at a fixed rate",
+        "C": "To eliminate all waste products",
+        "D": "To automate all processes"
+      },
+      "correctOption": "To continue at a fixed rate",
+      "explanation": "Sustainability means the ability to continue at a fixed rate."
+    },
+    "10": {
+      "question": "In the context of Government Regulations, what does EPA stand for?",
+      "options": {
+        "A": "Economic Policy Agency",
+        "B": "Environmental Protection Agencies",
+        "C": "Energy Production Association",
+        "D": "Employment Protection Act"
+      },
+      "correctOption": "Environmental Protection Agencies",
+      "explanation": "EPA stands for Environmental Protection Agencies."
+    },
+    "11": {
+      "question": "Which of the following is a characteristic of an economic depression?",
+      "options": {
+        "A": "Duration is less than a year",
+        "B": "High employment rates",
+        "C": "Exponential unemployment increase",
+        "D": "Increase in available credit"
+      },
+      "correctOption": "Exponential unemployment increase",
+      "explanation": "Economic depression is marked by exponential unemployment increase."
+    },
+    "12": {
+      "question": "Which layer in smart and connected products is responsible for collecting data?",
+      "options": {
+        "A": "Digital layer",
+        "B": "Connectivity layer",
+        "C": "Physical layer",
+        "D": "Application layer"
+      },
+      "correctOption": "Physical layer",
+      "explanation": "The Physical layer collects data from the environment."
+    },
+    "13": {
+      "question": "Which of the following is a Lock-in centric value creation model?",
+      "options": {
+        "A": "Focusing on novelty",
+        "B": "Improving transaction efficiency",
+        "C": "Preventing customer migration",
+        "D": "Offering complementary products"
+      },
+      "correctOption": "Preventing customer migration",
+      "explanation": "Lock-in models focus on preventing customer migration."
+    },
+    "14": {
+      "question": "Which characteristic of smart factories involves self-configuration?",
+      "options": {
+        "A": "Proactivity",
+        "B": "Transparency",
+        "C": "Agility",
+        "D": "Connection"
+      },
+      "correctOption": "Agility",
+      "explanation": "Self-configuration is a key aspect of agility in smart factories."
+    },
+    "15": {
+      "question": "In the automation pyramid of a smart factory, which level is at the top?",
+      "options": {
+        "A": "Device level",
+        "B": "Control level",
+        "C": "Manufacturing execution system level",
+        "D": "ERP level"
+      },
+      "correctOption": "ERP level",
+      "explanation": "ERP level is at the top of the automation pyramid."
+    }
+  }

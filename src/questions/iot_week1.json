@@ -1,0 +1,161 @@
+{
+    "1": {
+      "question": "Which of the following sensors is an example of a Zero Order System?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Potentiometer",
+        "C": "Accelerometer",
+        "D": "Gyroscope"
+      },
+      "correctOption": "Potentiometer",
+      "explanation": "A zero-order system produces an output that follows the input instantaneously without energy storage or dynamic lag."
+    },
+    "2": {
+      "question": "Which Zigbee device type acts as the root and also functions as the network bridge?",
+      "options": {
+        "A": "Zigbee Router",
+        "B": "Zigbee End Device",
+        "C": "Zigbee Coordinator",
+        "D": "Zigbee Gateway"
+      },
+      "correctOption": "Zigbee Coordinator",
+      "explanation": "Every Zigbee network requires at least one coordinator, which initializes the network, acts as the root node, and serves as the network bridge."
+    },
+    "3": {
+      "question": "Which physical principle primarily explains the operation of hydraulic actuators?",
+      "options": {
+        "A": "Pascal’s law",
+        "B": "Bernoulli’s principle",
+        "C": "Ideal gas law",
+        "D": "Faraday’s law"
+      },
+      "correctOption": "Pascal’s law",
+      "explanation": "Pascal’s law states that pressure applied to a confined incompressible fluid is transmitted undiminished in all directions."
+    },
+    "4": {
+      "question": "At which OSI layer does the 6LoWPAN protocol primarily operate to enable IPv6 packets over IEEE 802.15.4?",
+      "options": {
+        "A": "Physical Layer",
+        "B": "Network Layer (Adaptation Layer)",
+        "C": "Transport Layer",
+        "D": "Application Layer"
+      },
+      "correctOption": "Network Layer (Adaptation Layer)",
+      "explanation": "6LoWPAN introduces an adaptation layer to support IPv6 over IEEE 802.15.4."
+    },
+    "5": {
+      "question": "Which IEEE 802.15.4 variant introduces Direct Sequence Ultra-Wideband (UWB) Physical Layer?",
+      "options": {
+        "A": "802.15.4a",
+        "B": "802.15.4b",
+        "C": "802.15.4e",
+        "D": "802.15.4g"
+      },
+      "correctOption": "802.15.4a",
+      "explanation": "IEEE 802.15.4a specifies UWB physical layers for precise ranging and low-power communication."
+    },
+    "6": {
+      "question": "Fill in the blank: In the context of sensor characteristics, the properties of the system’s transient response to an input are collectively termed as _____________ characteristics.",
+      "options": {
+        "A": "Dynamic characteristics",
+        "B": "Static characteristics",
+        "C": "Time-domain characteristics",
+        "D": "Steady-state characteristics"
+      },
+      "correctOption": "Dynamic characteristics",
+      "explanation": "Transient response behavior is described using dynamic characteristics."
+    },
+    "7": {
+      "question": "In the context of the Wireless HART standard (IEC 62591) operating in the 2.4 GHz ISM band, what is the frequency gap maintained between two adjacent channels?",
+      "options": {
+        "A": "2 MHz",
+        "B": "5 MHz",
+        "C": "20 MHz",
+        "D": "25 MHz"
+      },
+      "correctOption": "5 MHz",
+      "explanation": "WirelessHART maintains a 5 MHz spacing between adjacent channels."
+    },
+    "8": {
+      "question": "State True or False. A Passive NFC device can neither transmit nor read any data.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "False",
+      "explanation": "Passive NFC devices can transmit data when powered by an active reader."
+    },
+    "9": {
+      "question": "What is the data rate of Bluetooth 2.0?",
+      "options": {
+        "A": "1 Mbps",
+        "B": "2 Mbps",
+        "C": "3 Mbps",
+        "D": "4 Mbps"
+      },
+      "correctOption": "3 Mbps",
+      "explanation": "Bluetooth 2.0 supports an enhanced data rate of up to 3 Mbps."
+    },
+    "10": {
+      "question": "Fill in the blank: The primary focus of the ISA 100.11a technology is the implementation of ______ in the industrial environment.",
+      "options": {
+        "A": "Automation",
+        "B": "Connectivity",
+        "C": "Predictive maintenance",
+        "D": "Security"
+      },
+      "correctOption": "Automation",
+      "explanation": "ISA 100.11a supports industrial automation via wireless communication."
+    },
+    "11": {
+      "question": "State True or False. Classical Internet is not meant for constrained IoT devices.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Classical Internet protocols are too resource-intensive for constrained IoT devices."
+    },
+    "12": {
+      "question": "In the context of CoRE Service Discovery, IoT devices register their resources to the Resource Directory (RD) using which interface?",
+      "options": {
+        "A": "Lookup Interface (LI)",
+        "B": "Transport Interface (TI)",
+        "C": "Registration Interface (RI)",
+        "D": "Application Interface (AI)"
+      },
+      "correctOption": "Registration Interface (RI)",
+      "explanation": "Devices use the Registration Interface to register resources with the RD."
+    },
+    "13": {
+      "question": "In the context of QoS for IoT Networks, which data timeliness policy mandates dropping stale data and notifying the application that a deadline has been missed?",
+      "options": {
+        "A": "Latency budget policy",
+        "B": "Deadline policy",
+        "C": "Retention policy",
+        "D": "Priority policy"
+      },
+      "correctOption": "Deadline policy",
+      "explanation": "Deadline policy enforces time constraints by dropping outdated data."
+    },
+    "14": {
+      "question": "State True or False. MQTT works on the Request/Response framework on top of UDP.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "False",
+      "explanation": "MQTT uses publish/subscribe over TCP, not request/response over UDP."
+    },
+    "15": {
+      "question": "Which of the following is/are advantages of XMPP?",
+      "options": {
+        "A": "Interoperability",
+        "B": "Extensibility",
+        "C": "Flexibility",
+        "D": "All of these"
+      },
+      "correctOption": "All of these",
+      "explanation": "XMPP supports interoperability, extensibility, and flexibility."
+    }
+  }

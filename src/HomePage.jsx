@@ -141,6 +141,26 @@ export default function HomePage() {
           </button>
         </div>
       </section>
+
+      <hr style={sectionDivider} />
+
+      <section style={section} aria-labelledby="iot-heading">
+        <h2 id="iot-heading" style={sectionHeading}>
+          IoT
+        </h2>
+        <p style={dataVetaDescription}>
+          Weekly quizzes for Internet of Things revision.
+        </p>
+        <div style={stack}>
+          <button
+            type="button"
+            style={buttonBase}
+            onClick={() => navigate('/iot/quiz')}
+          >
+            Start Quiz
+          </button>
+        </div>
+      </section>
     </main>
   )
 }
