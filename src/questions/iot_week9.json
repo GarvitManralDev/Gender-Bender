@@ -1,0 +1,161 @@
+{
+  "1": {
+    "question": "Why is Julia programming considered advantageous?",
+    "options": {
+      "A": "It is slower than Python.",
+      "B": "It merges Python’s benefits with C’s performance.",
+      "C": "It is a closed-source language.",
+      "D": "It does not support parallelism."
+    },
+    "correctOption": "It merges Python’s benefits with C’s performance.",
+    "explanation": "Julia combines the ease of Python with the execution speed of C."
+  },
+  "2": {
+    "question": "What relationship does Linear Regression detect?",
+    "options": {
+      "A": "A non-linear relationship between binary variables",
+      "B": "A clustering pattern in unlabeled data",
+      "C": "A random relationship between unrelated variables",
+      "D": "A linear relationship between a dependent variable and independent variables"
+    },
+    "correctOption": "A linear relationship between a dependent variable and independent variables",
+    "explanation": "Linear regression detects a linear relationship between variables."
+  },
+  "3": {
+    "question": "Which core concept defines Software-Defined Networking (SDN)?",
+    "options": {
+      "A": "Hardwiring control logic into every switch",
+      "B": "Decoupling the control plane from the data plane",
+      "C": "Combining all network functions into a single monolithic server",
+      "D": "Eliminating the need for any software in networking"
+    },
+    "correctOption": "Decoupling the control plane from the data plane",
+    "explanation": "SDN separates control and data planes."
+  },
+  "4": {
+    "question": "Fog computing architecture places fog nodes between _______ and the cloud.",
+    "options": {
+      "A": "Industrial end devices",
+      "B": "Enterprise servers",
+      "C": "Mobile applications",
+      "D": "Databases"
+    },
+    "correctOption": "Industrial end devices",
+    "explanation": "Fog nodes sit between edge devices and cloud."
+  },
+  "5": {
+    "question": "What is the major IIoT data handling challenge?",
+    "options": {
+      "A": "High cost of sensors",
+      "B": "Diversity in protocols, data syntax, and data sources",
+      "C": "Lack of storage capacity",
+      "D": "Insufficient processing power"
+    },
+    "correctOption": "Diversity in protocols, data syntax, and data sources",
+    "explanation": "Heterogeneous data sources and protocols create integration challenges."
+  },
+  "6": {
+    "question": "State True or False: Fog computing prevents noisy data crowd at the cloud.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctOption": "True",
+    "explanation": "Fog filters unnecessary data before cloud transmission."
+  },
+  "7": {
+    "question": "State True or False: R is an open-source tool for programming and analysis.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctOption": "True",
+    "explanation": "R is used for programming, statistics, and visualization."
+  },
+  "8": {
+    "question": "Which R package supports fuzzy clustering, SVM, and Naïve Bayes?",
+    "options": {
+      "A": "rpart",
+      "B": "e1071",
+      "C": "nnet",
+      "D": "caret"
+    },
+    "correctOption": "e1071",
+    "explanation": "e1071 provides multiple ML algorithms."
+  },
+  "9": {
+    "question": "Cloud service models include IaaS, PaaS, and _______.",
+    "options": {
+      "A": "DaaS",
+      "B": "NaaS",
+      "C": "SaaS",
+      "D": "FaaS"
+    },
+    "correctOption": "SaaS",
+    "explanation": "SaaS is the third main cloud service model."
+  },
+  "10": {
+    "question": "Which Hadoop component supports all other components?",
+    "options": {
+      "A": "HDFS",
+      "B": "MapReduce",
+      "C": "Hadoop Common",
+      "D": "YARN"
+    },
+    "correctOption": "Hadoop Common",
+    "explanation": "Hadoop Common provides shared utilities."
+  },
+  "11": {
+    "question": "What routing protocol does BCube run?",
+    "options": {
+      "A": "BSR (Bcube Source Routing)",
+      "B": "BGP",
+      "C": "OSPF",
+      "D": "RIP"
+    },
+    "correctOption": "BSR (Bcube Source Routing)",
+    "explanation": "BCube uses a source routing protocol called BSR."
+  },
+  "12": {
+    "question": "Which is a data center network challenge?",
+    "options": {
+      "A": "High cost",
+      "B": "Poor server-to-server Connectivity",
+      "C": "Complex configuration",
+      "D": "Limited vendors"
+    },
+    "correctOption": "Poor server-to-server Connectivity",
+    "explanation": "Connectivity issues reduce performance."
+  },
+  "13": {
+    "question": "Which protocol is part of SDN components?",
+    "options": {
+      "A": "TCP",
+      "B": "UDP",
+      "C": "OpenFlow",
+      "D": "HTTP"
+    },
+    "correctOption": "OpenFlow",
+    "explanation": "OpenFlow is a core SDN protocol."
+  },
+  "14": {
+    "question": "State True or False: GCAM is used for flow rules in SDN.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "correctOption": "False",
+    "explanation": "TCAM is used, not GCAM."
+  },
+  "15": {
+    "question": "Which SDIIoT advantage enables ordered event processing?",
+    "options": {
+      "A": "Deterministic networking",
+      "B": "High availability",
+      "C": "Low-latency virtualization",
+      "D": "Robust security"
+    },
+    "correctOption": "Deterministic networking",
+    "explanation": "Deterministic networking ensures ordered processing."
+  }
+}

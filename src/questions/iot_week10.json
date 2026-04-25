@@ -1,0 +1,165 @@
+{
+    "1": {
+      "question": "What is the primary objective of the IETF 6TiSCH protocol in IIoT?",
+      "options": {
+        "A": "To enable deterministic communication and efficient resource allocation",
+        "B": "To increase non-deterministic communication",
+        "C": "To replace SDN controllers entirely",
+        "D": "To increase jitter in the network"
+      },
+      "correctOption": "To enable deterministic communication and efficient resource allocation",
+      "explanation": "6TiSCH enables deterministic communication and efficient resource allocation in constrained networks."
+    },
+    "2": {
+      "question": "μSDN is integrated with which protocol stack?",
+      "options": {
+        "A": "Zigbee stack",
+        "B": "IPv4 stack",
+        "C": "Contiki IEEE 802.15.4-2015 stack",
+        "D": "LTE stack"
+      },
+      "correctOption": "Contiki IEEE 802.15.4-2015 stack",
+      "explanation": "μSDN integrates with the Contiki IEEE 802.15.4-2015 protocol stack."
+    },
+    "3": {
+      "question": "The public network in SDIIoT consists of switches, routers, and ________ network.",
+      "options": {
+        "A": "Sensor",
+        "B": "Access",
+        "C": "Control",
+        "D": "Storage"
+      },
+      "correctOption": "Access",
+      "explanation": "Public network includes switches, routers, and access network."
+    },
+    "4": {
+      "question": "State True or False: Trustworthy IIoT includes security, privacy, safety, reliability, and resilience.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "These are core attributes of trustworthy IIoT systems."
+    },
+    "5": {
+      "question": "Current IIoT security architectures are mostly ______ centric.",
+      "options": {
+        "A": "OT",
+        "B": "IT",
+        "C": "Cloud",
+        "D": "Device"
+      },
+      "correctOption": "IT",
+      "explanation": "Modern security approaches are largely IT-centric."
+    },
+    "6": {
+      "question": "What is the first step in IIoT security risk management?",
+      "options": {
+        "A": "Mitigating risks",
+        "B": "Accepting risks",
+        "C": "Avoiding risks",
+        "D": "Outsourcing risks"
+      },
+      "correctOption": "Avoiding risks",
+      "explanation": "Risk management begins with avoiding risks."
+    },
+    "7": {
+      "question": "IIoT system security depends on devices, communication, data protection, and ______.",
+      "options": {
+        "A": "Network topology",
+        "B": "Security management",
+        "C": "Sensor calibration",
+        "D": "Hardware redundancy"
+      },
+      "correctOption": "Security management",
+      "explanation": "Security management ensures overall system protection."
+    },
+    "8": {
+      "question": "End device protection requires physical security, access control, identity, and ______ protection.",
+      "options": {
+        "A": "Application",
+        "B": "Network",
+        "C": "Cloud",
+        "D": "Data"
+      },
+      "correctOption": "Data",
+      "explanation": "Data protection is a key aspect of end device security."
+    },
+    "9": {
+      "question": "What is the primary security requirement of IIoT systems?",
+      "options": {
+        "A": "Device scalability",
+        "B": "End-to-end security",
+        "C": "High bandwidth",
+        "D": "Low latency"
+      },
+      "correctOption": "End-to-end security",
+      "explanation": "IIoT systems require secure communication across all layers."
+    },
+    "10": {
+      "question": "Which smart factory feature enables prediction of future outcomes?",
+      "options": {
+        "A": "Transparent",
+        "B": "Connected",
+        "C": "Proactive",
+        "D": "Agile"
+      },
+      "correctOption": "Proactive",
+      "explanation": "Proactive systems predict future events for preventive action."
+    },
+    "11": {
+      "question": "Airbus uses which technology to visualize production processes?",
+      "options": {
+        "A": "Augmented Reality",
+        "B": "Blockchain visualization",
+        "C": "Virtual reality only",
+        "D": "3D real-time visualization"
+      },
+      "correctOption": "3D real-time visualization",
+      "explanation": "Airbus uses 3D visualization for real-time monitoring."
+    },
+    "12": {
+      "question": "What technology does Amazon use for warehouse automation?",
+      "options": {
+        "A": "Automated conveyor belts",
+        "B": "Robotic shelves",
+        "C": "Augmented Reality devices",
+        "D": "Autonomous forklifts"
+      },
+      "correctOption": "Robotic shelves",
+      "explanation": "Amazon uses robotic shelves for efficient product retrieval."
+    },
+    "13": {
+      "question": "What is the role of the sensing layer in food supply chains?",
+      "options": {
+        "A": "Data encryption",
+        "B": "Monitoring food quality using sensors",
+        "C": "Providing cloud analytics",
+        "D": "Managing business operations"
+      },
+      "correctOption": "Monitoring food quality using sensors",
+      "explanation": "Sensors monitor food quality in real time."
+    },
+    "14": {
+      "question": "What is a major benefit of supply chain transparency?",
+      "options": {
+        "A": "Increased manual intervention",
+        "B": "Reduced food wastage",
+        "C": "Reduced sensor usage",
+        "D": "Elimination of automation"
+      },
+      "correctOption": "Reduced food wastage",
+      "explanation": "Transparency reduces wastage via monitoring."
+    },
+    "15": {
+      "question": "What does Flavor Matrix use to enhance dishes?",
+      "options": {
+        "A": "Robot chefs",
+        "B": "Augmented Reality menus",
+        "C": "3D printed food",
+        "D": "Machine learning and data analysis of food ingredients"
+      },
+      "correctOption": "Machine learning and data analysis of food ingredients",
+      "explanation": "Flavor Matrix uses ML to identify flavor combinations."
+    }
+  }

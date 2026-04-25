@@ -1,0 +1,163 @@
+{
+    "1": {
+      "question": "In the Oil and Gas Industry Workflow, which step precedes moving data to the cloud?",
+      "options": {
+        "A": "Deploy IoT solutions",
+        "B": "Apply predictive analytics",
+        "C": "Data analysis by extraction, transform and load",
+        "D": "Identify required maintenance"
+      },
+      "correctOption": "Data analysis by extraction, transform and load",
+      "explanation": "ETL-based data analysis occurs before sending data to the cloud."
+    },
+    "2": {
+      "question": "State True or False: Identifying specific data types occurs after data analysis in ML workflow.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Data type identification follows analysis and evaluation."
+    },
+    "3": {
+      "question": "In the Chemical Industry, what is a primary goal of Predictive Maintenance?",
+      "options": {
+        "A": "Address real time issues",
+        "B": "Track vehicle locations",
+        "C": "Increase energy usage",
+        "D": "Optimize medicine routing"
+      },
+      "correctOption": "Address real time issues",
+      "explanation": "Predictive maintenance helps address real-time failures."
+    },
+    "4": {
+      "question": "Which action is part of improving logistics in the Chemical Industry?",
+      "options": {
+        "A": "Analyzing water and nutrients",
+        "B": "Detection of contamination or attacks",
+        "C": "Pricing model with profit margin",
+        "D": "Reducing equipment breakdown"
+      },
+      "correctOption": "Detection of contamination or attacks",
+      "explanation": "Logistics improvement includes contamination detection."
+    },
+    "5": {
+      "question": "IoT in Pharma connects manufacturing, monitoring, controlling, and ______.",
+      "options": {
+        "A": "Distribution",
+        "B": "Farming",
+        "C": "Extraction",
+        "D": "Refining"
+      },
+      "correctOption": "Distribution",
+      "explanation": "Pharma IoT integrates distribution systems."
+    },
+    "6": {
+      "question": "How do UAVs communicate with industrial systems?",
+      "options": {
+        "A": "Handwritten notes",
+        "B": "Through SCADA systems",
+        "C": "Wired connections only",
+        "D": "They do not communicate"
+      },
+      "correctOption": "Through SCADA systems",
+      "explanation": "UAVs integrate with SCADA systems."
+    },
+    "7": {
+      "question": "Which generation UAV includes 360° gimbals and advanced features?",
+      "options": {
+        "A": "Third",
+        "B": "Fourth",
+        "C": "Fifth",
+        "D": "Sixth"
+      },
+      "correctOption": "Fifth",
+      "explanation": "Fifth generation UAVs include advanced capabilities."
+    },
+    "8": {
+      "question": "What is a UAV application in energy management?",
+      "options": {
+        "A": "Resisting deforestation",
+        "B": "Inspecting boilers at power plants",
+        "C": "Delivering defibrillators",
+        "D": "Broadcasting events"
+      },
+      "correctOption": "Inspecting boilers at power plants",
+      "explanation": "UAVs inspect infrastructure like boilers."
+    },
+    "9": {
+      "question": "In mining, UAV surveys are used for:",
+      "options": {
+        "A": "Watershed analysis",
+        "B": "Canopy mapping",
+        "C": "Finding missing items",
+        "D": "Optimized blast design"
+      },
+      "correctOption": "Optimized blast design",
+      "explanation": "Surveys assist in blast planning."
+    },
+    "10": {
+      "question": "Healthcare drones are researched with ______ to assist elderly.",
+      "options": {
+        "A": "Manipulator arms",
+        "B": "Defibrillators",
+        "C": "Thermal imagery",
+        "D": "360° gimbals"
+      },
+      "correctOption": "Manipulator arms",
+      "explanation": "Manipulator arms help assist senior citizens."
+    },
+    "11": {
+      "question": "How do UAVs assist telecom networks?",
+      "options": {
+        "A": "Broadcasting events",
+        "B": "Providing urban internet",
+        "C": "Monitoring construction",
+        "D": "Testing coverage and stability"
+      },
+      "correctOption": "Testing coverage and stability",
+      "explanation": "UAVs test network performance."
+    },
+    "12": {
+      "question": "Case studies examine data within a ______.",
+      "options": {
+        "A": "Broad scope",
+        "B": "Specific context",
+        "C": "Simulation",
+        "D": "Hypothetical scenario"
+      },
+      "correctOption": "Specific context",
+      "explanation": "Case studies focus on real-world contexts."
+    },
+    "13": {
+      "question": "State True or False: Case studies only provide qualitative analysis.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "False",
+      "explanation": "Case studies include both qualitative and quantitative analysis."
+    },
+    "14": {
+      "question": "Case studies aim to reduce ______ of workers.",
+      "options": {
+        "A": "Work hours",
+        "B": "Paid leaves",
+        "C": "Training costs",
+        "D": "Health hazards"
+      },
+      "correctOption": "Health hazards",
+      "explanation": "Worker safety is a key concern."
+    },
+    "15": {
+      "question": "Case studies investigate:",
+      "options": {
+        "A": "Real-life phenomenon",
+        "B": "Fictional events",
+        "C": "Historical myths",
+        "D": "Future predictions"
+      },
+      "correctOption": "Real-life phenomenon",
+      "explanation": "They analyze real-world situations."
+    }
+  }

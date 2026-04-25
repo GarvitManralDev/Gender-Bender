@@ -1,0 +1,161 @@
+{
+    "1": {
+      "question": "In IIoT Healthcare Architecture, which process follows 'Sensing'?",
+      "options": {
+        "A": "Learning",
+        "B": "Storing",
+        "C": "Sending",
+        "D": "Processing"
+      },
+      "correctOption": "Sending",
+      "explanation": "The sequence is Sensing → Sending → Processing → Storing → Learning."
+    },
+    "2": {
+      "question": "State True or False: Asthma can be completely cured using IIoT-based smart inhalers.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "False",
+      "explanation": "Asthma is a lifelong condition that can be controlled but not cured."
+    },
+    "3": {
+      "question": "Which is an example of a wireless ECG monitoring device?",
+      "options": {
+        "A": "iHealth BP5",
+        "B": "Dexcom",
+        "C": "QardioCore",
+        "D": "Kinsa smart thermometer"
+      },
+      "correctOption": "QardioCore",
+      "explanation": "QardioCore is used for wireless ECG monitoring."
+    },
+    "4": {
+      "question": "State True or False: AMI uses Broadband over PowerLine and Fixed RF for communication.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "AMI communication includes BPL and RF technologies."
+    },
+    "5": {
+      "question": "Which issue can IoT predict in the water sector?",
+      "options": {
+        "A": "Water freezing points",
+        "B": "Exact rainwater volume",
+        "C": "Water leakage",
+        "D": "Underground sources"
+      },
+      "correctOption": "Water leakage",
+      "explanation": "IoT helps detect and predict water leakage."
+    },
+    "6": {
+      "question": "How does a digital power plant reduce costs?",
+      "options": {
+        "A": "Increasing manpower",
+        "B": "Increasing fuel usage",
+        "C": "Manual monitoring",
+        "D": "Automation reducing manpower and maintenance"
+      },
+      "correctOption": "Automation reducing manpower and maintenance",
+      "explanation": "Automation lowers operational costs."
+    },
+    "7": {
+      "question": "Which RFID tag has no internal power source?",
+      "options": {
+        "A": "Active RFID",
+        "B": "Passive RFID",
+        "C": "Battery-Assisted Passive RFID",
+        "D": "Hybrid RFID"
+      },
+      "correctOption": "Passive RFID",
+      "explanation": "Passive RFID uses backscattering without internal power."
+    },
+    "8": {
+      "question": "What is a primary function of inventory management?",
+      "options": {
+        "A": "Increasing data scattering",
+        "B": "Decoupling production-distribution system",
+        "C": "Broadcasting signals",
+        "D": "Creating noise"
+      },
+      "correctOption": "Decoupling production-distribution system",
+      "explanation": "Inventory buffers production and distribution."
+    },
+    "9": {
+      "question": "Quality control measures inventory as it is being _______.",
+      "options": {
+        "A": "Developed",
+        "B": "Transported",
+        "C": "Sold",
+        "D": "Disposed"
+      },
+      "correctOption": "Developed",
+      "explanation": "Quality is monitored during development."
+    },
+    "10": {
+      "question": "Intrusion Triangle consists of Opportunity, Means, and _______.",
+      "options": {
+        "A": "Integrity",
+        "B": "Motive",
+        "C": "Availability",
+        "D": "Authentication"
+      },
+      "correctOption": "Motive",
+      "explanation": "Motive completes the intrusion triangle."
+    },
+    "11": {
+      "question": "Which concept verifies credentials locally or remotely?",
+      "options": {
+        "A": "Integrity",
+        "B": "Authentication",
+        "C": "Availability",
+        "D": "Network segmentation"
+      },
+      "correctOption": "Authentication",
+      "explanation": "Authentication validates identity."
+    },
+    "12": {
+      "question": "Which network security scans for malware?",
+      "options": {
+        "A": "Access control",
+        "B": "Application security",
+        "C": "Behavioral analytics",
+        "D": "Antivirus/antimalware software"
+      },
+      "correctOption": "Antivirus/antimalware software",
+      "explanation": "Antivirus detects and prevents malware."
+    },
+    "13": {
+      "question": "Facility Management manages:",
+      "options": {
+        "A": "Assembly lines",
+        "B": "Buildings and infrastructure",
+        "C": "Cloud servers",
+        "D": "Retail chains"
+      },
+      "correctOption": "Buildings and infrastructure",
+      "explanation": "It handles buildings and community infrastructure."
+    },
+    "14": {
+      "question": "State True or False: IoT in facility management includes Li-Fi and data security.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctOption": "True",
+      "explanation": "Advanced tech like Li-Fi is included."
+    },
+    "15": {
+      "question": "Which support service focuses on researching customers?",
+      "options": {
+        "A": "Administrative Support",
+        "B": "Marketing",
+        "C": "Business Development",
+        "D": "Information Technology"
+      },
+      "correctOption": "Marketing",
+      "explanation": "Marketing identifies and studies potential customers."
+    }
+  }
